@@ -1,0 +1,36 @@
+name: Atualizar Classificação FPF
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Instalar browsers Playwright
+        run: npx playwright install --with-deps
+
+      - name: Executar scraper
+        run: node scraper.js
+
+      - name: Commit classificação
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add classificacao.json
+          git commit -m "Atualizar classificação" || echo "No changes"
+          git push
