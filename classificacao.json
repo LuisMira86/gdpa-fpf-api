@@ -1,0 +1,200 @@
+[
+  {
+    "posicao": 1,
+    "equipa": "Pevidem Sc Sad",
+    "jogos": 24,
+    "vitorias": 17,
+    "empates": 2,
+    "derrotas": 5,
+    "gm": 51,
+    "gs": 33,
+    "pontos": 53
+  },
+  {
+    "posicao": 2,
+    "equipa": "Sc Maria Fonte",
+    "jogos": 24,
+    "vitorias": 15,
+    "empates": 5,
+    "derrotas": 4,
+    "gm": 47,
+    "gs": 24,
+    "pontos": 50
+  },
+  {
+    "posicao": 3,
+    "equipa": "Santa Maria Fc",
+    "jogos": 24,
+    "vitorias": 13,
+    "empates": 5,
+    "derrotas": 6,
+    "gm": 45,
+    "gs": 25,
+    "pontos": 44
+  },
+  {
+    "posicao": 4,
+    "equipa": "Os Sandinenses Gdrc",
+    "jogos": 24,
+    "vitorias": 12,
+    "empates": 4,
+    "derrotas": 8,
+    "gm": 42,
+    "gs": 36,
+    "pontos": 40
+  },
+  {
+    "posicao": 5,
+    "equipa": "Santiago Mascotelos Fc",
+    "jogos": 24,
+    "vitorias": 12,
+    "empates": 4,
+    "derrotas": 8,
+    "gm": 32,
+    "gs": 28,
+    "pontos": 40
+  },
+  {
+    "posicao": 6,
+    "equipa": "Merelinense Fc",
+    "jogos": 24,
+    "vitorias": 12,
+    "empates": 4,
+    "derrotas": 8,
+    "gm": 44,
+    "gs": 37,
+    "pontos": 40
+  },
+  {
+    "posicao": 7,
+    "equipa": "Dumiense Cjp Futebol Sad",
+    "jogos": 24,
+    "vitorias": 11,
+    "empates": 6,
+    "derrotas": 7,
+    "gm": 38,
+    "gs": 35,
+    "pontos": 39
+  },
+  {
+    "posicao": 8,
+    "equipa": "Gd Joane",
+    "jogos": 24,
+    "vitorias": 10,
+    "empates": 8,
+    "derrotas": 6,
+    "gm": 37,
+    "gs": 32,
+    "pontos": 38
+  },
+  {
+    "posicao": 9,
+    "equipa": "Gd Prado",
+    "jogos": 24,
+    "vitorias": 10,
+    "empates": 6,
+    "derrotas": 8,
+    "gm": 38,
+    "gs": 31,
+    "pontos": 36
+  },
+  {
+    "posicao": 10,
+    "equipa": "Ad Esposende",
+    "jogos": 24,
+    "vitorias": 9,
+    "empates": 8,
+    "derrotas": 7,
+    "gm": 33,
+    "gs": 28,
+    "pontos": 35
+  },
+  {
+    "posicao": 11,
+    "equipa": "Ad Oliveirense 1952",
+    "jogos": 24,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 8,
+    "gm": 38,
+    "gs": 29,
+    "pontos": 34
+  },
+  {
+    "posicao": 12,
+    "equipa": "Cd Ponte",
+    "jogos": 24,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 8,
+    "gm": 32,
+    "gs": 31,
+    "pontos": 34
+  },
+  {
+    "posicao": 13,
+    "equipa": "Berço Sdq",
+    "jogos": 24,
+    "vitorias": 9,
+    "empates": 4,
+    "derrotas": 11,
+    "gm": 39,
+    "gs": 33,
+    "pontos": 31
+  },
+  {
+    "posicao": 14,
+    "equipa": "Fc Marinhas",
+    "jogos": 24,
+    "vitorias": 7,
+    "empates": 5,
+    "derrotas": 12,
+    "gm": 30,
+    "gs": 37,
+    "pontos": 26
+  },
+  {
+    "posicao": 15,
+    "equipa": "Ud Vila Chã",
+    "jogos": 24,
+    "vitorias": 7,
+    "empates": 4,
+    "derrotas": 13,
+    "gm": 33,
+    "gs": 45,
+    "pontos": 25
+  },
+  {
+    "posicao": 16,
+    "equipa": "Vieira Sc",
+    "jogos": 24,
+    "vitorias": 4,
+    "empates": 8,
+    "derrotas": 12,
+    "gm": 27,
+    "gs": 44,
+    "pontos": 20
+  },
+  {
+    "posicao": 17,
+    "equipa": "Cd Celeiros",
+    "jogos": 24,
+    "vitorias": 4,
+    "empates": 2,
+    "derrotas": 18,
+    "gm": 21,
+    "gs": 45,
+    "pontos": 14
+  },
+  {
+    "posicao": 18,
+    "equipa": "Gd Selho",
+    "jogos": 24,
+    "vitorias": 0,
+    "empates": 3,
+    "derrotas": 21,
+    "gm": 23,
+    "gs": 77,
+    "pontos": 3
+  }
+]
