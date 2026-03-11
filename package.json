@@ -1,12 +1,12 @@
 {
   "name": "gdpa-fpf-api",
   "version": "1.0.0",
-  "description": "GDPA FPF standings scraper",
+  "description": "GDPA FPF scraper",
   "main": "scraper.js",
   "scripts": {
     "start": "node scraper.js"
   },
   "dependencies": {
-    "playwright": "^1.44.0"
+    "playwright": "^1.52.0"
   }
 }
