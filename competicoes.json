@@ -1,0 +1,13 @@
+{
+  "associationId": 219,
+  "seasonId": 105,
+  "outputFile": "classificacoes-todas.json",
+  "includeCompetitionIds": [],
+  "excludeCompetitionIds": [],
+  "includeKeywords": [],
+  "excludeKeywords": [
+    "Futsal",
+    "Praia"
+  ],
+  "maxCompetitions": 200
+}
