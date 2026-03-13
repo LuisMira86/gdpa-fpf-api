@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-12T07:03:32.497Z",
+  "fetchedAt": "2026-03-13T07:01:29.199Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 26,
@@ -1625,17 +1625,28 @@
         },
         {
           "posicao": 2,
-          "equipa": "Ass. Merelim S. Paio",
-          "jogos": 13,
+          "equipa": "Arsenal Devesa",
+          "jogos": 15,
           "vitorias": 12,
-          "empates": 0,
-          "derrotas": 1,
-          "gm": 50,
-          "gs": 12,
-          "pontos": 36
+          "empates": 1,
+          "derrotas": 2,
+          "gm": 44,
+          "gs": 13,
+          "pontos": 37
         },
         {
           "posicao": 3,
+          "equipa": "Ass. Merelim S. Paio",
+          "jogos": 14,
+          "vitorias": 12,
+          "empates": 0,
+          "derrotas": 2,
+          "gm": 50,
+          "gs": 15,
+          "pontos": 36
+        },
+        {
+          "posicao": 4,
           "equipa": "A.F.C. Gondizalves",
           "jogos": 15,
           "vitorias": 11,
@@ -1643,17 +1654,6 @@
           "derrotas": 3,
           "gm": 41,
           "gs": 12,
-          "pontos": 34
-        },
-        {
-          "posicao": 4,
-          "equipa": "Arsenal Devesa",
-          "jogos": 14,
-          "vitorias": 11,
-          "empates": 1,
-          "derrotas": 2,
-          "gm": 41,
-          "gs": 13,
           "pontos": 34
         },
         {
