@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-13T07:01:29.199Z",
+  "fetchedAt": "2026-03-14T06:53:59.411Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 26,
@@ -47,6 +47,17 @@
         },
         {
           "posicao": 4,
+          "equipa": "Santiago Mascotelos Fc",
+          "jogos": 25,
+          "vitorias": 13,
+          "empates": 4,
+          "derrotas": 8,
+          "gm": 35,
+          "gs": 28,
+          "pontos": 43
+        },
+        {
+          "posicao": 5,
           "equipa": "Os Sandinenses Gdrc",
           "jogos": 24,
           "vitorias": 12,
@@ -54,17 +65,6 @@
           "derrotas": 8,
           "gm": 42,
           "gs": 36,
-          "pontos": 40
-        },
-        {
-          "posicao": 5,
-          "equipa": "Santiago Mascotelos Fc",
-          "jogos": 24,
-          "vitorias": 12,
-          "empates": 4,
-          "derrotas": 8,
-          "gm": 32,
-          "gs": 28,
           "pontos": 40
         },
         {
@@ -202,12 +202,12 @@
         {
           "posicao": 18,
           "equipa": "Gd Selho",
-          "jogos": 24,
+          "jogos": 25,
           "vitorias": 0,
           "empates": 3,
-          "derrotas": 21,
+          "derrotas": 22,
           "gm": 23,
-          "gs": 77,
+          "gs": 80,
           "pontos": 3
         }
       ]
@@ -601,6 +601,17 @@
         },
         {
           "posicao": 2,
+          "equipa": "Gd Apúlia",
+          "jogos": 15,
+          "vitorias": 10,
+          "empates": 2,
+          "derrotas": 3,
+          "gm": 47,
+          "gs": 22,
+          "pontos": 32
+        },
+        {
+          "posicao": 3,
           "equipa": "Operário Fc",
           "jogos": 13,
           "vitorias": 10,
@@ -611,25 +622,14 @@
           "pontos": 31
         },
         {
-          "posicao": 3,
-          "equipa": "Gd Apúlia",
-          "jogos": 14,
-          "vitorias": 9,
-          "empates": 2,
-          "derrotas": 3,
-          "gm": 43,
-          "gs": 21,
-          "pontos": 29
-        },
-        {
           "posicao": 4,
           "equipa": "Cd Lousado",
-          "jogos": 12,
+          "jogos": 13,
           "vitorias": 8,
           "empates": 2,
-          "derrotas": 2,
-          "gm": 44,
-          "gs": 15,
+          "derrotas": 3,
+          "gm": 45,
+          "gs": 19,
           "pontos": 26
         },
         {
@@ -919,13 +919,13 @@
         {
           "posicao": 1,
           "equipa": "Sc Maria Fonte",
-          "jogos": 16,
-          "vitorias": 13,
+          "jogos": 17,
+          "vitorias": 14,
           "empates": 1,
           "derrotas": 2,
-          "gm": 63,
-          "gs": 21,
-          "pontos": 40
+          "gm": 67,
+          "gs": 22,
+          "pontos": 43
         },
         {
           "posicao": 2,
@@ -1029,12 +1029,12 @@
         {
           "posicao": 11,
           "equipa": "Fc Tadim",
-          "jogos": 16,
+          "jogos": 17,
           "vitorias": 4,
           "empates": 4,
-          "derrotas": 8,
-          "gm": 17,
-          "gs": 27,
+          "derrotas": 9,
+          "gm": 18,
+          "gs": 31,
           "pontos": 16
         },
         {
@@ -2095,6 +2095,17 @@
         },
         {
           "posicao": 6,
+          "equipa": "Sc Braga Sad",
+          "jogos": 18,
+          "vitorias": 9,
+          "empates": 4,
+          "derrotas": 5,
+          "gm": 34,
+          "gs": 24,
+          "pontos": 31
+        },
+        {
+          "posicao": 7,
           "equipa": "Fc Famalicão",
           "jogos": 18,
           "vitorias": 9,
@@ -2103,17 +2114,6 @@
           "gm": 46,
           "gs": 40,
           "pontos": 30
-        },
-        {
-          "posicao": 7,
-          "equipa": "Sc Braga Sad",
-          "jogos": 17,
-          "vitorias": 8,
-          "empates": 4,
-          "derrotas": 5,
-          "gm": 30,
-          "gs": 24,
-          "pontos": 28
         },
         {
           "posicao": 8,
@@ -2162,12 +2162,12 @@
         {
           "posicao": 12,
           "equipa": "Gil Vicente Fc",
-          "jogos": 18,
+          "jogos": 19,
           "vitorias": 6,
           "empates": 3,
-          "derrotas": 9,
+          "derrotas": 10,
           "gm": 28,
-          "gs": 40,
+          "gs": 44,
           "pontos": 21
         },
         {
