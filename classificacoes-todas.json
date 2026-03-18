@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-17T07:12:23.635Z",
+  "fetchedAt": "2026-03-18T07:09:33.402Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 26,
@@ -1213,10 +1213,10 @@
         {
           "posicao": 12,
           "equipa": "Arsenal Devesa",
-          "jogos": 15,
+          "jogos": 16,
           "vitorias": 5,
           "empates": 3,
-          "derrotas": 7,
+          "derrotas": 8,
           "gm": 18,
           "gs": 34,
           "pontos": 18
@@ -1235,10 +1235,10 @@
         {
           "posicao": 14,
           "equipa": "Cf Fão",
-          "jogos": 15,
+          "jogos": 16,
           "vitorias": 0,
           "empates": 3,
-          "derrotas": 12,
+          "derrotas": 13,
           "gm": 18,
           "gs": 49,
           "pontos": 3
@@ -2347,13 +2347,13 @@
         {
           "posicao": 1,
           "equipa": "Gd Apúlia",
-          "jogos": 4,
-          "vitorias": 4,
+          "jogos": 5,
+          "vitorias": 5,
           "empates": 0,
           "derrotas": 0,
-          "gm": 21,
-          "gs": 4,
-          "pontos": 12
+          "gm": 30,
+          "gs": 5,
+          "pontos": 15
         },
         {
           "posicao": 2,
@@ -2424,12 +2424,12 @@
         {
           "posicao": 8,
           "equipa": "Forjães Sc",
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 1,
           "empates": 0,
-          "derrotas": 3,
-          "gm": 7,
-          "gs": 12,
+          "derrotas": 4,
+          "gm": 8,
+          "gs": 21,
           "pontos": 3
         }
       ]
