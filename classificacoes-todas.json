@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-18T07:09:33.402Z",
+  "fetchedAt": "2026-03-19T07:06:34.445Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 26,
@@ -744,13 +744,13 @@
         {
           "posicao": 2,
           "equipa": "Berço Sc",
-          "jogos": 17,
-          "vitorias": 14,
+          "jogos": 18,
+          "vitorias": 15,
           "empates": 3,
           "derrotas": 0,
-          "gm": 41,
-          "gs": 12,
-          "pontos": 45
+          "gm": 44,
+          "gs": 14,
+          "pontos": 48
         },
         {
           "posicao": 3,
@@ -788,12 +788,12 @@
         {
           "posicao": 6,
           "equipa": "Gd Joane",
-          "jogos": 16,
+          "jogos": 17,
           "vitorias": 9,
           "empates": 2,
-          "derrotas": 5,
-          "gm": 28,
-          "gs": 25,
+          "derrotas": 6,
+          "gm": 30,
+          "gs": 28,
           "pontos": 29
         },
         {
