@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-20T07:03:21.341Z",
+  "fetchedAt": "2026-03-21T06:50:11.594Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 26,
@@ -1092,13 +1092,13 @@
         {
           "posicao": 1,
           "equipa": "Ribeirão 1968 Fc \"A\"",
-          "jogos": 17,
-          "vitorias": 16,
+          "jogos": 18,
+          "vitorias": 17,
           "empates": 0,
           "derrotas": 1,
-          "gm": 70,
-          "gs": 12,
-          "pontos": 48
+          "gm": 73,
+          "gs": 14,
+          "pontos": 51
         },
         {
           "posicao": 2,
@@ -1136,12 +1136,12 @@
         {
           "posicao": 5,
           "equipa": "Gd Apúlia",
-          "jogos": 17,
+          "jogos": 18,
           "vitorias": 7,
           "empates": 5,
-          "derrotas": 5,
-          "gm": 45,
-          "gs": 37,
+          "derrotas": 6,
+          "gm": 47,
+          "gs": 40,
           "pontos": 26
         },
         {
@@ -1519,12 +1519,12 @@
         {
           "posicao": 10,
           "equipa": "Sc Maria Fonte",
-          "jogos": 18,
+          "jogos": 19,
           "vitorias": 7,
           "empates": 2,
-          "derrotas": 9,
-          "gm": 35,
-          "gs": 40,
+          "derrotas": 10,
+          "gm": 36,
+          "gs": 43,
           "pontos": 23
         },
         {
@@ -1551,6 +1551,17 @@
         },
         {
           "posicao": 13,
+          "equipa": "Dumiense Cjp Futebol Sad",
+          "jogos": 18,
+          "vitorias": 6,
+          "empates": 0,
+          "derrotas": 12,
+          "gm": 21,
+          "gs": 59,
+          "pontos": 18
+        },
+        {
+          "posicao": 14,
           "equipa": "Palmeiras Fc",
           "jogos": 19,
           "vitorias": 5,
@@ -1558,17 +1569,6 @@
           "derrotas": 14,
           "gm": 38,
           "gs": 59,
-          "pontos": 15
-        },
-        {
-          "posicao": 14,
-          "equipa": "Dumiense Cjp Futebol Sad",
-          "jogos": 17,
-          "vitorias": 5,
-          "empates": 0,
-          "derrotas": 12,
-          "gm": 18,
-          "gs": 58,
           "pontos": 15
         },
         {
