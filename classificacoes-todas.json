@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-24T07:11:41.361Z",
+  "fetchedAt": "2026-03-25T07:09:43.863Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 26,
@@ -1266,6 +1266,17 @@
         },
         {
           "posicao": 2,
+          "equipa": "Ad Esposende",
+          "jogos": 14,
+          "vitorias": 11,
+          "empates": 2,
+          "derrotas": 1,
+          "gm": 70,
+          "gs": 16,
+          "pontos": 35
+        },
+        {
+          "posicao": 3,
           "equipa": "Ud Vila Chã",
           "jogos": 13,
           "vitorias": 11,
@@ -1274,17 +1285,6 @@
           "gm": 52,
           "gs": 15,
           "pontos": 34
-        },
-        {
-          "posicao": 3,
-          "equipa": "Ad Esposende",
-          "jogos": 13,
-          "vitorias": 10,
-          "empates": 2,
-          "derrotas": 1,
-          "gm": 66,
-          "gs": 16,
-          "pontos": 32
         },
         {
           "posicao": 4,
@@ -1355,12 +1355,12 @@
         {
           "posicao": 10,
           "equipa": "Gdc Cristelo",
-          "jogos": 12,
+          "jogos": 13,
           "vitorias": 3,
           "empates": 0,
-          "derrotas": 9,
+          "derrotas": 10,
           "gm": 27,
-          "gs": 38,
+          "gs": 42,
           "pontos": 9
         },
         {
@@ -1648,13 +1648,13 @@
         {
           "posicao": 4,
           "equipa": "A.F.C. Gondizalves",
-          "jogos": 16,
-          "vitorias": 11,
+          "jogos": 17,
+          "vitorias": 12,
           "empates": 1,
           "derrotas": 4,
-          "gm": 41,
-          "gs": 13,
-          "pontos": 34
+          "gm": 46,
+          "gs": 14,
+          "pontos": 37
         },
         {
           "posicao": 5,
@@ -1681,12 +1681,12 @@
         {
           "posicao": 7,
           "equipa": "Este Fc",
-          "jogos": 14,
+          "jogos": 15,
           "vitorias": 7,
           "empates": 2,
-          "derrotas": 5,
-          "gm": 26,
-          "gs": 29,
+          "derrotas": 6,
+          "gm": 27,
+          "gs": 34,
           "pontos": 23
         },
         {
@@ -1921,13 +1921,13 @@
         {
           "posicao": 1,
           "equipa": "Gd Gerês",
-          "jogos": 9,
-          "vitorias": 9,
+          "jogos": 10,
+          "vitorias": 10,
           "empates": 0,
           "derrotas": 0,
-          "gm": 29,
-          "gs": 8,
-          "pontos": 27
+          "gm": 31,
+          "gs": 9,
+          "pontos": 30
         },
         {
           "posicao": 2,
@@ -1943,12 +1943,12 @@
         {
           "posicao": 3,
           "equipa": "Sc Ucha",
-          "jogos": 10,
+          "jogos": 11,
           "vitorias": 6,
           "empates": 3,
-          "derrotas": 1,
-          "gm": 35,
-          "gs": 11,
+          "derrotas": 2,
+          "gm": 36,
+          "gs": 13,
           "pontos": 21
         },
         {
@@ -2040,6 +2040,17 @@
       "tabela": [
         {
           "posicao": 1,
+          "equipa": "Moreirense Fc, Sad",
+          "jogos": 20,
+          "vitorias": 15,
+          "empates": 3,
+          "derrotas": 2,
+          "gm": 72,
+          "gs": 14,
+          "pontos": 48
+        },
+        {
+          "posicao": 2,
           "equipa": "Os Sandinenses Gdrc",
           "jogos": 20,
           "vitorias": 15,
@@ -2048,17 +2059,6 @@
           "gm": 36,
           "gs": 18,
           "pontos": 47
-        },
-        {
-          "posicao": 2,
-          "equipa": "Moreirense Fc, Sad",
-          "jogos": 19,
-          "vitorias": 14,
-          "empates": 3,
-          "derrotas": 2,
-          "gm": 63,
-          "gs": 13,
-          "pontos": 45
         },
         {
           "posicao": 3,
@@ -2206,12 +2206,12 @@
         {
           "posicao": 16,
           "equipa": "Sc Maria Fonte",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 0,
           "empates": 0,
-          "derrotas": 20,
-          "gm": 6,
-          "gs": 115,
+          "derrotas": 21,
+          "gm": 7,
+          "gs": 124,
           "pontos": 0
         }
       ]
