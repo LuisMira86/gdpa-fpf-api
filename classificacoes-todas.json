@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-27T07:15:26.735Z",
+  "fetchedAt": "2026-03-28T07:06:36.700Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 26,
@@ -1300,13 +1300,13 @@
         {
           "posicao": 5,
           "equipa": "Cf Os Ceramistas",
-          "jogos": 15,
-          "vitorias": 8,
+          "jogos": 16,
+          "vitorias": 9,
           "empates": 2,
           "derrotas": 5,
-          "gm": 45,
+          "gm": 52,
           "gs": 33,
-          "pontos": 26
+          "pontos": 29
         },
         {
           "posicao": 6,
@@ -1388,12 +1388,12 @@
         {
           "posicao": 13,
           "equipa": "Arc Várzea",
-          "jogos": 12,
+          "jogos": 13,
           "vitorias": 1,
           "empates": 1,
-          "derrotas": 10,
+          "derrotas": 11,
           "gm": 4,
-          "gs": 79,
+          "gs": 86,
           "pontos": 4
         },
         {
@@ -1475,10 +1475,10 @@
         {
           "posicao": 6,
           "equipa": "Santa Maria Fc",
-          "jogos": 18,
+          "jogos": 19,
           "vitorias": 10,
           "empates": 4,
-          "derrotas": 4,
+          "derrotas": 5,
           "gm": 38,
           "gs": 19,
           "pontos": 34
@@ -1541,10 +1541,10 @@
         {
           "posicao": 12,
           "equipa": "Sc Maria Fonte",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 7,
           "empates": 2,
-          "derrotas": 10,
+          "derrotas": 11,
           "gm": 36,
           "gs": 43,
           "pontos": 23
@@ -2089,7 +2089,7 @@
           "vitorias": 12,
           "empates": 2,
           "derrotas": 7,
-          "gm": 63,
+          "gm": 65,
           "gs": 30,
           "pontos": 38
         },
@@ -2156,7 +2156,7 @@
           "empates": 3,
           "derrotas": 10,
           "gm": 33,
-          "gs": 45,
+          "gs": 47,
           "pontos": 24
         },
         {
