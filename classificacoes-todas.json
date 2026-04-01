@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-31T07:32:05.444Z",
+  "fetchedAt": "2026-04-01T07:28:19.740Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -668,12 +668,12 @@
         {
           "posicao": 8,
           "equipa": "Cf Os Ceramistas",
-          "jogos": 15,
+          "jogos": 16,
           "vitorias": 4,
           "empates": 4,
-          "derrotas": 7,
+          "derrotas": 8,
           "gm": 26,
-          "gs": 36,
+          "gs": 39,
           "pontos": 16
         },
         {
@@ -690,13 +690,13 @@
         {
           "posicao": 10,
           "equipa": "Ribeirão 1968 Fc",
-          "jogos": 15,
-          "vitorias": 3,
+          "jogos": 16,
+          "vitorias": 4,
           "empates": 3,
           "derrotas": 9,
-          "gm": 20,
+          "gm": 23,
           "gs": 39,
-          "pontos": 12
+          "pontos": 15
         },
         {
           "posicao": 11,
@@ -985,16 +985,27 @@
         {
           "posicao": 7,
           "equipa": "Sc Cabreiros",
-          "jogos": 17,
-          "vitorias": 6,
+          "jogos": 18,
+          "vitorias": 7,
           "empates": 5,
           "derrotas": 6,
-          "gm": 25,
+          "gm": 26,
           "gs": 24,
-          "pontos": 23
+          "pontos": 26
         },
         {
           "posicao": 8,
+          "equipa": "Fc Tadim",
+          "jogos": 19,
+          "vitorias": 6,
+          "empates": 4,
+          "derrotas": 9,
+          "gm": 21,
+          "gs": 32,
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
           "equipa": "Acd Carapeços",
           "jogos": 19,
           "vitorias": 7,
@@ -1005,7 +1016,7 @@
           "pontos": 22
         },
         {
-          "posicao": 9,
+          "posicao": 10,
           "equipa": "Este Fc",
           "jogos": 20,
           "vitorias": 5,
@@ -1014,17 +1025,6 @@
           "gm": 31,
           "gs": 37,
           "pontos": 21
-        },
-        {
-          "posicao": 10,
-          "equipa": "Fc Tadim",
-          "jogos": 18,
-          "vitorias": 5,
-          "empates": 4,
-          "derrotas": 9,
-          "gm": 19,
-          "gs": 31,
-          "pontos": 19
         },
         {
           "posicao": 11,
@@ -1040,12 +1040,12 @@
         {
           "posicao": 12,
           "equipa": "Granja Fc",
-          "jogos": 18,
+          "jogos": 19,
           "vitorias": 5,
           "empates": 2,
-          "derrotas": 11,
-          "gm": 24,
-          "gs": 43,
+          "derrotas": 12,
+          "gm": 25,
+          "gs": 45,
           "pontos": 17
         },
         {
@@ -1062,12 +1062,12 @@
         {
           "posicao": 14,
           "equipa": "Ad Ninense",
-          "jogos": 18,
+          "jogos": 19,
           "vitorias": 0,
           "empates": 2,
-          "derrotas": 16,
+          "derrotas": 17,
           "gm": 13,
-          "gs": 72,
+          "gs": 73,
           "pontos": 2
         }
       ]
@@ -1113,6 +1113,17 @@
         },
         {
           "posicao": 3,
+          "equipa": "Vilaverdense Fc",
+          "jogos": 18,
+          "vitorias": 11,
+          "empates": 2,
+          "derrotas": 5,
+          "gm": 50,
+          "gs": 29,
+          "pontos": 35
+        },
+        {
+          "posicao": 4,
           "equipa": "Merelinense Fc",
           "jogos": 17,
           "vitorias": 10,
@@ -1121,17 +1132,6 @@
           "gm": 42,
           "gs": 25,
           "pontos": 33
-        },
-        {
-          "posicao": 4,
-          "equipa": "Vilaverdense Fc",
-          "jogos": 17,
-          "vitorias": 10,
-          "empates": 2,
-          "derrotas": 5,
-          "gm": 47,
-          "gs": 27,
-          "pontos": 32
         },
         {
           "posicao": 5,
@@ -1169,12 +1169,12 @@
         {
           "posicao": 8,
           "equipa": "Fc Marinhas",
-          "jogos": 18,
+          "jogos": 19,
           "vitorias": 8,
           "empates": 1,
-          "derrotas": 9,
-          "gm": 32,
-          "gs": 43,
+          "derrotas": 10,
+          "gm": 34,
+          "gs": 46,
           "pontos": 25
         },
         {
@@ -1703,24 +1703,24 @@
         {
           "posicao": 9,
           "equipa": "Arc Águias Alvelos",
-          "jogos": 17,
+          "jogos": 18,
           "vitorias": 6,
           "empates": 0,
-          "derrotas": 11,
-          "gm": 30,
-          "gs": 40,
+          "derrotas": 12,
+          "gm": 31,
+          "gs": 42,
           "pontos": 18
         },
         {
           "posicao": 10,
           "equipa": "Evolution Soccer Academy \"A\"",
-          "jogos": 17,
-          "vitorias": 3,
+          "jogos": 18,
+          "vitorias": 4,
           "empates": 3,
           "derrotas": 11,
-          "gm": 23,
-          "gs": 51,
-          "pontos": 12
+          "gm": 25,
+          "gs": 52,
+          "pontos": 15
         },
         {
           "posicao": 11,
