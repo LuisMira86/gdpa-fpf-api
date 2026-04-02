@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-01T07:28:19.740Z",
+  "fetchedAt": "2026-04-02T07:20:49.026Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -1256,13 +1256,13 @@
         {
           "posicao": 1,
           "equipa": "Fc Roriz \"A\"",
-          "jogos": 14,
-          "vitorias": 12,
+          "jogos": 15,
+          "vitorias": 13,
           "empates": 1,
           "derrotas": 1,
-          "gm": 74,
-          "gs": 11,
-          "pontos": 37
+          "gm": 79,
+          "gs": 14,
+          "pontos": 40
         },
         {
           "posicao": 2,
@@ -1333,12 +1333,12 @@
         {
           "posicao": 8,
           "equipa": "Gandra Fc",
-          "jogos": 13,
+          "jogos": 14,
           "vitorias": 5,
           "empates": 1,
-          "derrotas": 7,
-          "gm": 27,
-          "gs": 41,
+          "derrotas": 8,
+          "gm": 30,
+          "gs": 46,
           "pontos": 16
         },
         {
@@ -2281,13 +2281,13 @@
         {
           "posicao": 1,
           "equipa": "C.R.P. Delães",
-          "jogos": 5,
-          "vitorias": 5,
+          "jogos": 6,
+          "vitorias": 6,
           "empates": 0,
           "derrotas": 0,
-          "gm": 21,
-          "gs": 7,
-          "pontos": 15
+          "gm": 27,
+          "gs": 12,
+          "pontos": 18
         },
         {
           "posicao": 2,
@@ -2303,12 +2303,12 @@
         {
           "posicao": 3,
           "equipa": "Académico Fc Martim",
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 4,
           "empates": 0,
-          "derrotas": 0,
-          "gm": 38,
-          "gs": 1,
+          "derrotas": 1,
+          "gm": 43,
+          "gs": 7,
           "pontos": 12
         },
         {
