@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-02T07:20:49.026Z",
+  "fetchedAt": "2026-04-03T07:17:01.511Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -2226,17 +2226,17 @@
       "tabela": [
         {
           "posicao": 1,
-          "equipa": "A.F. De Viseu - Clube",
-          "jogos": 0,
-          "vitorias": 0,
+          "equipa": "A.F.Braga - Clube",
+          "jogos": 1,
+          "vitorias": 1,
           "empates": 0,
           "derrotas": 0,
-          "gm": 0,
+          "gm": 3,
           "gs": 0,
-          "pontos": 0
+          "pontos": 3
         },
         {
-          "posicao": 1,
+          "posicao": 2,
           "equipa": "A.F. Porto - Clube",
           "jogos": 0,
           "vitorias": 0,
@@ -2247,7 +2247,7 @@
           "pontos": 0
         },
         {
-          "posicao": 1,
+          "posicao": 2,
           "equipa": "A.F. Viana Do Castelo - Clube",
           "jogos": 0,
           "vitorias": 0,
@@ -2258,14 +2258,14 @@
           "pontos": 0
         },
         {
-          "posicao": 1,
-          "equipa": "A.F.Braga - Clube",
-          "jogos": 0,
+          "posicao": 4,
+          "equipa": "A.F. De Viseu - Clube",
+          "jogos": 1,
           "vitorias": 0,
           "empates": 0,
-          "derrotas": 0,
+          "derrotas": 1,
           "gm": 0,
-          "gs": 0,
+          "gs": 3,
           "pontos": 0
         }
       ]
@@ -2498,17 +2498,17 @@
       "tabela": [
         {
           "posicao": 1,
-          "equipa": "A.F. De Viseu - Clube",
-          "jogos": 0,
-          "vitorias": 0,
+          "equipa": "A.F.Braga - Clube",
+          "jogos": 1,
+          "vitorias": 1,
           "empates": 0,
           "derrotas": 0,
-          "gm": 0,
-          "gs": 0,
-          "pontos": 0
+          "gm": 3,
+          "gs": 1,
+          "pontos": 3
         },
         {
-          "posicao": 1,
+          "posicao": 2,
           "equipa": "A.F. Porto - Clube",
           "jogos": 0,
           "vitorias": 0,
@@ -2519,7 +2519,7 @@
           "pontos": 0
         },
         {
-          "posicao": 1,
+          "posicao": 2,
           "equipa": "A.F. Viana Do Castelo - Clube",
           "jogos": 0,
           "vitorias": 0,
@@ -2530,14 +2530,14 @@
           "pontos": 0
         },
         {
-          "posicao": 1,
-          "equipa": "A.F.Braga - Clube",
-          "jogos": 0,
+          "posicao": 4,
+          "equipa": "A.F. De Viseu - Clube",
+          "jogos": 1,
           "vitorias": 0,
           "empates": 0,
-          "derrotas": 0,
-          "gm": 0,
-          "gs": 0,
+          "derrotas": 1,
+          "gm": 1,
+          "gs": 3,
           "pontos": 0
         }
       ]
