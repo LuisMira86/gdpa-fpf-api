@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-03T07:17:01.511Z",
+  "fetchedAt": "2026-04-04T07:09:16.034Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -788,13 +788,13 @@
         {
           "posicao": 6,
           "equipa": "Gd Joane",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 9,
-          "empates": 3,
+          "empates": 4,
           "derrotas": 7,
-          "gm": 31,
-          "gs": 33,
-          "pontos": 30
+          "gm": 32,
+          "gs": 34,
+          "pontos": 31
         },
         {
           "posicao": 7,
@@ -865,13 +865,13 @@
         {
           "posicao": 13,
           "equipa": "Os Sandinenses Gdrc",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 4,
-          "empates": 2,
+          "empates": 3,
           "derrotas": 13,
-          "gm": 17,
-          "gs": 30,
-          "pontos": 14
+          "gm": 18,
+          "gs": 31,
+          "pontos": 15
         },
         {
           "posicao": 14,
@@ -995,24 +995,24 @@
         },
         {
           "posicao": 8,
-          "equipa": "Fc Tadim",
-          "jogos": 19,
-          "vitorias": 6,
-          "empates": 4,
-          "derrotas": 9,
-          "gm": 21,
-          "gs": 32,
-          "pontos": 22
+          "equipa": "Acd Carapeços",
+          "jogos": 20,
+          "vitorias": 8,
+          "empates": 1,
+          "derrotas": 11,
+          "gm": 37,
+          "gs": 45,
+          "pontos": 25
         },
         {
           "posicao": 9,
-          "equipa": "Acd Carapeços",
-          "jogos": 19,
-          "vitorias": 7,
-          "empates": 1,
-          "derrotas": 11,
-          "gm": 30,
-          "gs": 44,
+          "equipa": "Fc Tadim",
+          "jogos": 20,
+          "vitorias": 6,
+          "empates": 4,
+          "derrotas": 10,
+          "gm": 22,
+          "gs": 39,
           "pontos": 22
         },
         {
@@ -1867,13 +1867,13 @@
         {
           "posicao": 9,
           "equipa": "Arc Águias Alvelos",
-          "jogos": 16,
-          "vitorias": 4,
+          "jogos": 17,
+          "vitorias": 5,
           "empates": 0,
           "derrotas": 12,
-          "gm": 26,
+          "gm": 31,
           "gs": 57,
-          "pontos": 12
+          "pontos": 15
         },
         {
           "posicao": 10,
@@ -1900,12 +1900,12 @@
         {
           "posicao": 12,
           "equipa": "Ud Vila Chã",
-          "jogos": 16,
+          "jogos": 17,
           "vitorias": 0,
           "empates": 1,
-          "derrotas": 15,
+          "derrotas": 16,
           "gm": 4,
-          "gs": 137,
+          "gs": 142,
           "pontos": 1
         }
       ]
@@ -2891,13 +2891,13 @@
         {
           "posicao": 1,
           "equipa": "Gcd Águias Negras Tabuadelo",
-          "jogos": 4,
-          "vitorias": 4,
+          "jogos": 5,
+          "vitorias": 5,
           "empates": 0,
           "derrotas": 0,
-          "gm": 20,
+          "gm": 24,
           "gs": 0,
-          "pontos": 12
+          "pontos": 15
         },
         {
           "posicao": 2,
@@ -2913,12 +2913,12 @@
         {
           "posicao": 3,
           "equipa": "Brito Sc",
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 2,
           "empates": 0,
-          "derrotas": 2,
+          "derrotas": 3,
           "gm": 8,
-          "gs": 4,
+          "gs": 8,
           "pontos": 6
         },
         {
@@ -2967,24 +2967,24 @@
         {
           "posicao": 1,
           "equipa": "Ccr Infias",
-          "jogos": 5,
+          "jogos": 6,
           "vitorias": 4,
           "empates": 1,
-          "derrotas": 0,
-          "gm": 12,
-          "gs": 2,
+          "derrotas": 1,
+          "gm": 13,
+          "gs": 4,
           "pontos": 13
         },
         {
           "posicao": 2,
           "equipa": "Ad Esposende",
-          "jogos": 4,
-          "vitorias": 3,
+          "jogos": 5,
+          "vitorias": 4,
           "empates": 0,
           "derrotas": 1,
-          "gm": 18,
-          "gs": 2,
-          "pontos": 9
+          "gm": 20,
+          "gs": 3,
+          "pontos": 12
         },
         {
           "posicao": 3,
