@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-05T07:14:41.021Z",
+  "fetchedAt": "2026-04-06T07:50:44.742Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -623,6 +623,17 @@
         },
         {
           "posicao": 4,
+          "equipa": "Cd Lousado",
+          "jogos": 16,
+          "vitorias": 10,
+          "empates": 2,
+          "derrotas": 4,
+          "gm": 53,
+          "gs": 22,
+          "pontos": 32
+        },
+        {
+          "posicao": 5,
           "equipa": "Ud Vila Chã",
           "jogos": 16,
           "vitorias": 10,
@@ -631,17 +642,6 @@
           "gm": 46,
           "gs": 27,
           "pontos": 30
-        },
-        {
-          "posicao": 5,
-          "equipa": "Cd Lousado",
-          "jogos": 15,
-          "vitorias": 9,
-          "empates": 2,
-          "derrotas": 4,
-          "gm": 51,
-          "gs": 22,
-          "pontos": 29
         },
         {
           "posicao": 6,
@@ -668,12 +668,12 @@
         {
           "posicao": 8,
           "equipa": "Cf Os Ceramistas",
-          "jogos": 16,
+          "jogos": 17,
           "vitorias": 4,
           "empates": 4,
-          "derrotas": 8,
+          "derrotas": 9,
           "gm": 26,
-          "gs": 39,
+          "gs": 41,
           "pontos": 16
         },
         {
@@ -1289,12 +1289,12 @@
         {
           "posicao": 4,
           "equipa": "Arc Águias Alvelos",
-          "jogos": 15,
+          "jogos": 16,
           "vitorias": 10,
           "empates": 2,
-          "derrotas": 3,
-          "gm": 49,
-          "gs": 26,
+          "derrotas": 4,
+          "gm": 50,
+          "gs": 30,
           "pontos": 32
         },
         {
@@ -1311,13 +1311,13 @@
         {
           "posicao": 6,
           "equipa": "Acd Carapeços",
-          "jogos": 13,
-          "vitorias": 8,
+          "jogos": 14,
+          "vitorias": 9,
           "empates": 1,
           "derrotas": 4,
-          "gm": 45,
-          "gs": 25,
-          "pontos": 25
+          "gm": 49,
+          "gs": 26,
+          "pontos": 28
         },
         {
           "posicao": 7,
@@ -2226,17 +2226,17 @@
       "tabela": [
         {
           "posicao": 1,
-          "equipa": "A.F.Braga - Clube",
-          "jogos": 1,
-          "vitorias": 1,
+          "equipa": "A.F. De Viseu - Clube",
+          "jogos": 0,
+          "vitorias": 0,
           "empates": 0,
           "derrotas": 0,
-          "gm": 3,
+          "gm": 0,
           "gs": 0,
-          "pontos": 3
+          "pontos": 0
         },
         {
-          "posicao": 2,
+          "posicao": 1,
           "equipa": "A.F. Porto - Clube",
           "jogos": 0,
           "vitorias": 0,
@@ -2247,7 +2247,7 @@
           "pontos": 0
         },
         {
-          "posicao": 2,
+          "posicao": 1,
           "equipa": "A.F. Viana Do Castelo - Clube",
           "jogos": 0,
           "vitorias": 0,
@@ -2258,14 +2258,14 @@
           "pontos": 0
         },
         {
-          "posicao": 4,
-          "equipa": "A.F. De Viseu - Clube",
-          "jogos": 1,
+          "posicao": 1,
+          "equipa": "A.F.Braga - Clube",
+          "jogos": 0,
           "vitorias": 0,
           "empates": 0,
-          "derrotas": 1,
+          "derrotas": 0,
           "gm": 0,
-          "gs": 3,
+          "gs": 0,
           "pontos": 0
         }
       ]
