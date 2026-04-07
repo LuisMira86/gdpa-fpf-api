@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-06T07:50:44.742Z",
+  "fetchedAt": "2026-04-07T07:40:54.327Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -766,23 +766,23 @@
         {
           "posicao": 4,
           "equipa": "Merelinense Fc",
-          "jogos": 20,
-          "vitorias": 13,
+          "jogos": 21,
+          "vitorias": 14,
           "empates": 4,
           "derrotas": 3,
-          "gm": 43,
-          "gs": 23,
-          "pontos": 43
+          "gm": 46,
+          "gs": 25,
+          "pontos": 46
         },
         {
           "posicao": 5,
           "equipa": "Cc Taipas",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 10,
           "empates": 3,
-          "derrotas": 6,
-          "gm": 40,
-          "gs": 26,
+          "derrotas": 7,
+          "gm": 42,
+          "gs": 29,
           "pontos": 33
         },
         {
@@ -929,6 +929,17 @@
         },
         {
           "posicao": 2,
+          "equipa": "Fc Marinhas",
+          "jogos": 20,
+          "vitorias": 14,
+          "empates": 2,
+          "derrotas": 4,
+          "gm": 77,
+          "gs": 27,
+          "pontos": 44
+        },
+        {
+          "posicao": 3,
           "equipa": "Ad Esposende",
           "jogos": 19,
           "vitorias": 14,
@@ -939,7 +950,7 @@
           "pontos": 44
         },
         {
-          "posicao": 3,
+          "posicao": 4,
           "equipa": "Santa Maria Fc",
           "jogos": 20,
           "vitorias": 13,
@@ -948,17 +959,6 @@
           "gm": 66,
           "gs": 23,
           "pontos": 42
-        },
-        {
-          "posicao": 4,
-          "equipa": "Fc Marinhas",
-          "jogos": 19,
-          "vitorias": 13,
-          "empates": 2,
-          "derrotas": 4,
-          "gm": 69,
-          "gs": 26,
-          "pontos": 41
         },
         {
           "posicao": 5,
@@ -1040,12 +1040,12 @@
         {
           "posicao": 12,
           "equipa": "Granja Fc",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 5,
           "empates": 2,
-          "derrotas": 12,
-          "gm": 25,
-          "gs": 45,
+          "derrotas": 13,
+          "gm": 26,
+          "gs": 53,
           "pontos": 17
         },
         {
