@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-08T07:27:47.840Z",
+  "fetchedAt": "2026-04-09T07:30:52.076Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -2118,13 +2118,13 @@
         {
           "posicao": 8,
           "equipa": "Santiago Mascotelos Fc",
-          "jogos": 21,
-          "vitorias": 8,
+          "jogos": 22,
+          "vitorias": 9,
           "empates": 4,
           "derrotas": 9,
-          "gm": 41,
+          "gm": 42,
           "gs": 35,
-          "pontos": 28
+          "pontos": 31
         },
         {
           "posicao": 9,
@@ -2162,12 +2162,12 @@
         {
           "posicao": 12,
           "equipa": "Gil Vicente Fc",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 7,
           "empates": 3,
-          "derrotas": 11,
+          "derrotas": 12,
           "gm": 34,
-          "gs": 50,
+          "gs": 51,
           "pontos": 24
         },
         {
