@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-04-09T07:30:52.076Z",
+  "fetchedAt": "2026-04-10T07:35:32.195Z",
   "associationId": 219,
   "seasonId": 105,
-  "totalCompeticoes": 28,
+  "totalCompeticoes": 27,
   "competicoes": [
     {
       "competitionId": 27985,
@@ -591,13 +591,13 @@
         {
           "posicao": 1,
           "equipa": "Fc Roriz",
-          "jogos": 16,
-          "vitorias": 13,
+          "jogos": 17,
+          "vitorias": 14,
           "empates": 1,
           "derrotas": 2,
-          "gm": 60,
+          "gm": 66,
           "gs": 22,
-          "pontos": 40
+          "pontos": 43
         },
         {
           "posicao": 2,
@@ -701,12 +701,12 @@
         {
           "posicao": 11,
           "equipa": "Ruivanense Ac",
-          "jogos": 16,
+          "jogos": 17,
           "vitorias": 2,
           "empates": 2,
-          "derrotas": 12,
+          "derrotas": 13,
           "gm": 15,
-          "gs": 58,
+          "gs": 64,
           "pontos": 8
         },
         {
@@ -799,13 +799,13 @@
         {
           "posicao": 7,
           "equipa": "Santiago Mascotelos Fc",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 8,
-          "empates": 3,
+          "empates": 4,
           "derrotas": 9,
           "gm": 35,
           "gs": 39,
-          "pontos": 27
+          "pontos": 28
         },
         {
           "posicao": 8,
@@ -821,13 +821,13 @@
         {
           "posicao": 9,
           "equipa": "Ribeirão 1968 Fc",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 6,
-          "empates": 4,
+          "empates": 5,
           "derrotas": 9,
           "gm": 19,
           "gs": 35,
-          "pontos": 22
+          "pontos": 23
         },
         {
           "posicao": 10,
@@ -1790,13 +1790,13 @@
         {
           "posicao": 2,
           "equipa": "Cf Fão \"A\"",
-          "jogos": 16,
-          "vitorias": 13,
+          "jogos": 17,
+          "vitorias": 14,
           "empates": 0,
           "derrotas": 3,
-          "gm": 88,
+          "gm": 91,
           "gs": 12,
-          "pontos": 39
+          "pontos": 42
         },
         {
           "posicao": 3,
@@ -1834,12 +1834,12 @@
         {
           "posicao": 6,
           "equipa": "Gdc Cristelo",
-          "jogos": 17,
+          "jogos": 18,
           "vitorias": 9,
           "empates": 0,
-          "derrotas": 8,
+          "derrotas": 9,
           "gm": 47,
-          "gs": 39,
+          "gs": 42,
           "pontos": 27
         },
         {
@@ -2539,104 +2539,6 @@
           "gm": 1,
           "gs": 3,
           "pontos": 0
-        }
-      ]
-    },
-    {
-      "competitionId": 28980,
-      "seasonId": 105,
-      "competicao": "CAMPEONATO DISTRITAL DE BENJAMINS",
-      "sourceUrl": "https://resultados.fpf.pt/Competition/Details?competitionId=28980&seasonId=105",
-      "clickedClassificacao": true,
-      "totalEquipas": 8,
-      "tabela": [
-        {
-          "posicao": 1,
-          "equipa": "Ad Carreira \"A\"",
-          "jogos": 5,
-          "vitorias": 5,
-          "empates": 0,
-          "derrotas": 0,
-          "gm": 38,
-          "gs": 2,
-          "pontos": 15
-        },
-        {
-          "posicao": 2,
-          "equipa": "Gd Apúlia \"B\"",
-          "jogos": 6,
-          "vitorias": 4,
-          "empates": 2,
-          "derrotas": 0,
-          "gm": 30,
-          "gs": 15,
-          "pontos": 14
-        },
-        {
-          "posicao": 3,
-          "equipa": "Gandra Fc",
-          "jogos": 6,
-          "vitorias": 3,
-          "empates": 1,
-          "derrotas": 2,
-          "gm": 29,
-          "gs": 14,
-          "pontos": 10
-        },
-        {
-          "posicao": 4,
-          "equipa": "Arc Águias Alvelos \"B\"",
-          "jogos": 5,
-          "vitorias": 2,
-          "empates": 2,
-          "derrotas": 1,
-          "gm": 27,
-          "gs": 9,
-          "pontos": 8
-        },
-        {
-          "posicao": 5,
-          "equipa": "Gdc Cristelo",
-          "jogos": 6,
-          "vitorias": 2,
-          "empates": 1,
-          "derrotas": 3,
-          "gm": 16,
-          "gs": 39,
-          "pontos": 7
-        },
-        {
-          "posicao": 6,
-          "equipa": "Ad Esposende \"B\"",
-          "jogos": 6,
-          "vitorias": 1,
-          "empates": 3,
-          "derrotas": 2,
-          "gm": 16,
-          "gs": 26,
-          "pontos": 6
-        },
-        {
-          "posicao": 7,
-          "equipa": "Arc Várzea \"B\"",
-          "jogos": 6,
-          "vitorias": 0,
-          "empates": 2,
-          "derrotas": 4,
-          "gm": 12,
-          "gs": 31,
-          "pontos": 2
-        },
-        {
-          "posicao": 8,
-          "equipa": "Gd Fragoso",
-          "jogos": 6,
-          "vitorias": 0,
-          "empates": 1,
-          "derrotas": 5,
-          "gm": 8,
-          "gs": 40,
-          "pontos": 1
         }
       ]
     },
