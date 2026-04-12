@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-11T07:08:45.034Z",
+  "fetchedAt": "2026-04-12T07:21:37.495Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -9,208 +9,9 @@
       "seasonId": 105,
       "competicao": "bigONE Pró-Nacional",
       "sourceUrl": "https://resultados.fpf.pt/Competition/Details?competitionId=27985&seasonId=105",
-      "clickedClassificacao": true,
-      "totalEquipas": 18,
-      "tabela": [
-        {
-          "posicao": 1,
-          "equipa": "Pevidem Sc Sad",
-          "jogos": 27,
-          "vitorias": 19,
-          "empates": 2,
-          "derrotas": 6,
-          "gm": 60,
-          "gs": 40,
-          "pontos": 59
-        },
-        {
-          "posicao": 2,
-          "equipa": "Sc Maria Fonte",
-          "jogos": 27,
-          "vitorias": 18,
-          "empates": 5,
-          "derrotas": 4,
-          "gm": 55,
-          "gs": 24,
-          "pontos": 59
-        },
-        {
-          "posicao": 3,
-          "equipa": "Santa Maria Fc",
-          "jogos": 27,
-          "vitorias": 15,
-          "empates": 5,
-          "derrotas": 7,
-          "gm": 49,
-          "gs": 28,
-          "pontos": 50
-        },
-        {
-          "posicao": 4,
-          "equipa": "Santiago Mascotelos Fc",
-          "jogos": 27,
-          "vitorias": 14,
-          "empates": 4,
-          "derrotas": 9,
-          "gm": 37,
-          "gs": 30,
-          "pontos": 46
-        },
-        {
-          "posicao": 5,
-          "equipa": "Merelinense Fc",
-          "jogos": 27,
-          "vitorias": 14,
-          "empates": 4,
-          "derrotas": 9,
-          "gm": 47,
-          "gs": 41,
-          "pontos": 46
-        },
-        {
-          "posicao": 6,
-          "equipa": "Os Sandinenses Gdrc",
-          "jogos": 27,
-          "vitorias": 13,
-          "empates": 6,
-          "derrotas": 8,
-          "gm": 47,
-          "gs": 40,
-          "pontos": 45
-        },
-        {
-          "posicao": 7,
-          "equipa": "Dumiense Cjp Futebol Sad",
-          "jogos": 27,
-          "vitorias": 12,
-          "empates": 7,
-          "derrotas": 8,
-          "gm": 42,
-          "gs": 39,
-          "pontos": 43
-        },
-        {
-          "posicao": 8,
-          "equipa": "Gd Joane",
-          "jogos": 27,
-          "vitorias": 11,
-          "empates": 8,
-          "derrotas": 8,
-          "gm": 39,
-          "gs": 36,
-          "pontos": 41
-        },
-        {
-          "posicao": 9,
-          "equipa": "Berço Sdq",
-          "jogos": 27,
-          "vitorias": 11,
-          "empates": 5,
-          "derrotas": 11,
-          "gm": 46,
-          "gs": 37,
-          "pontos": 38
-        },
-        {
-          "posicao": 10,
-          "equipa": "Ad Esposende",
-          "jogos": 27,
-          "vitorias": 10,
-          "empates": 8,
-          "derrotas": 9,
-          "gm": 37,
-          "gs": 33,
-          "pontos": 38
-        },
-        {
-          "posicao": 11,
-          "equipa": "Ad Oliveirense 1952",
-          "jogos": 27,
-          "vitorias": 10,
-          "empates": 7,
-          "derrotas": 10,
-          "gm": 45,
-          "gs": 36,
-          "pontos": 37
-        },
-        {
-          "posicao": 12,
-          "equipa": "Gd Prado",
-          "jogos": 27,
-          "vitorias": 10,
-          "empates": 7,
-          "derrotas": 10,
-          "gm": 43,
-          "gs": 39,
-          "pontos": 37
-        },
-        {
-          "posicao": 13,
-          "equipa": "Cd Ponte",
-          "jogos": 27,
-          "vitorias": 10,
-          "empates": 7,
-          "derrotas": 10,
-          "gm": 35,
-          "gs": 36,
-          "pontos": 37
-        },
-        {
-          "posicao": 14,
-          "equipa": "Fc Marinhas",
-          "jogos": 27,
-          "vitorias": 10,
-          "empates": 6,
-          "derrotas": 11,
-          "gm": 43,
-          "gs": 43,
-          "pontos": 36
-        },
-        {
-          "posicao": 15,
-          "equipa": "Ud Vila Chã",
-          "jogos": 27,
-          "vitorias": 9,
-          "empates": 4,
-          "derrotas": 14,
-          "gm": 38,
-          "gs": 47,
-          "pontos": 31
-        },
-        {
-          "posicao": 16,
-          "equipa": "Vieira Sc",
-          "jogos": 27,
-          "vitorias": 5,
-          "empates": 8,
-          "derrotas": 14,
-          "gm": 31,
-          "gs": 49,
-          "pontos": 23
-        },
-        {
-          "posicao": 17,
-          "equipa": "Cd Celeiros",
-          "jogos": 27,
-          "vitorias": 3,
-          "empates": 2,
-          "derrotas": 22,
-          "gm": 24,
-          "gs": 56,
-          "pontos": 11
-        },
-        {
-          "posicao": 18,
-          "equipa": "Gd Selho",
-          "jogos": 27,
-          "vitorias": 0,
-          "empates": 3,
-          "derrotas": 24,
-          "gm": 23,
-          "gs": 87,
-          "pontos": 3
-        }
-      ]
+      "clickedClassificacao": false,
+      "totalEquipas": 0,
+      "tabela": []
     },
     {
       "competitionId": 28016,
@@ -222,6 +23,17 @@
       "tabela": [
         {
           "posicao": 1,
+          "equipa": "Ad Ninense",
+          "jogos": 22,
+          "vitorias": 15,
+          "empates": 4,
+          "derrotas": 3,
+          "gm": 48,
+          "gs": 28,
+          "pontos": 49
+        },
+        {
+          "posicao": 2,
           "equipa": "Forjães Sc",
           "jogos": 22,
           "vitorias": 14,
@@ -232,29 +44,29 @@
           "pontos": 48
         },
         {
-          "posicao": 2,
-          "equipa": "Ad Ninense",
-          "jogos": 21,
-          "vitorias": 14,
-          "empates": 4,
-          "derrotas": 3,
-          "gm": 44,
-          "gs": 27,
-          "pontos": 46
-        },
-        {
           "posicao": 3,
           "equipa": "Sc Cabreiros",
-          "jogos": 22,
+          "jogos": 23,
           "vitorias": 11,
-          "empates": 6,
+          "empates": 7,
           "derrotas": 5,
-          "gm": 32,
-          "gs": 23,
-          "pontos": 39
+          "gm": 33,
+          "gs": 24,
+          "pontos": 40
         },
         {
           "posicao": 4,
+          "equipa": "Sc Ucha",
+          "jogos": 23,
+          "vitorias": 12,
+          "empates": 3,
+          "derrotas": 8,
+          "gm": 40,
+          "gs": 26,
+          "pontos": 39
+        },
+        {
+          "posicao": 5,
           "equipa": "Gd Porto Ave",
           "jogos": 21,
           "vitorias": 11,
@@ -263,17 +75,6 @@
           "gm": 40,
           "gs": 32,
           "pontos": 37
-        },
-        {
-          "posicao": 5,
-          "equipa": "Sc Ucha",
-          "jogos": 22,
-          "vitorias": 11,
-          "empates": 3,
-          "derrotas": 8,
-          "gm": 39,
-          "gs": 26,
-          "pontos": 36
         },
         {
           "posicao": 6,
@@ -333,12 +134,12 @@
         {
           "posicao": 11,
           "equipa": "Este Fc",
-          "jogos": 22,
+          "jogos": 23,
           "vitorias": 7,
           "empates": 4,
-          "derrotas": 11,
+          "derrotas": 12,
           "gm": 31,
-          "gs": 43,
+          "gs": 44,
           "pontos": 25
         },
         {
@@ -366,23 +167,23 @@
         {
           "posicao": 14,
           "equipa": "Crdc Rendufe Fut.",
-          "jogos": 22,
+          "jogos": 23,
           "vitorias": 4,
-          "empates": 6,
+          "empates": 7,
           "derrotas": 12,
-          "gm": 19,
-          "gs": 35,
-          "pontos": 18
+          "gm": 20,
+          "gs": 36,
+          "pontos": 19
         },
         {
           "posicao": 15,
           "equipa": "S. Paio Arcos Fc",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 2,
           "empates": 1,
-          "derrotas": 18,
-          "gm": 11,
-          "gs": 49,
+          "derrotas": 19,
+          "gm": 12,
+          "gs": 53,
           "pontos": 7
         },
         {
@@ -441,17 +242,28 @@
         },
         {
           "posicao": 4,
-          "equipa": "Cf Fão",
-          "jogos": 20,
-          "vitorias": 10,
-          "empates": 4,
-          "derrotas": 6,
-          "gm": 33,
-          "gs": 28,
-          "pontos": 34
+          "equipa": "Cf Os Ceramistas",
+          "jogos": 21,
+          "vitorias": 9,
+          "empates": 8,
+          "derrotas": 4,
+          "gm": 40,
+          "gs": 35,
+          "pontos": 35
         },
         {
           "posicao": 5,
+          "equipa": "Cf Fão",
+          "jogos": 21,
+          "vitorias": 10,
+          "empates": 4,
+          "derrotas": 7,
+          "gm": 33,
+          "gs": 30,
+          "pontos": 34
+        },
+        {
+          "posicao": 6,
           "equipa": "Antas Fc",
           "jogos": 20,
           "vitorias": 10,
@@ -462,7 +274,18 @@
           "pontos": 34
         },
         {
-          "posicao": 6,
+          "posicao": 7,
+          "equipa": "Realense Fc",
+          "jogos": 20,
+          "vitorias": 9,
+          "empates": 7,
+          "derrotas": 4,
+          "gm": 34,
+          "gs": 25,
+          "pontos": 34
+        },
+        {
+          "posicao": 8,
           "equipa": "Fc Tadim",
           "jogos": 20,
           "vitorias": 10,
@@ -471,28 +294,6 @@
           "gm": 37,
           "gs": 20,
           "pontos": 33
-        },
-        {
-          "posicao": 7,
-          "equipa": "Cf Os Ceramistas",
-          "jogos": 20,
-          "vitorias": 8,
-          "empates": 8,
-          "derrotas": 4,
-          "gm": 37,
-          "gs": 34,
-          "pontos": 32
-        },
-        {
-          "posicao": 8,
-          "equipa": "Realense Fc",
-          "jogos": 19,
-          "vitorias": 8,
-          "empates": 7,
-          "derrotas": 4,
-          "gm": 33,
-          "gs": 25,
-          "pontos": 31
         },
         {
           "posicao": 9,
@@ -519,23 +320,23 @@
         {
           "posicao": 11,
           "equipa": "Acd Parada Tibães",
-          "jogos": 20,
-          "vitorias": 4,
+          "jogos": 21,
+          "vitorias": 5,
           "empates": 6,
           "derrotas": 10,
-          "gm": 21,
+          "gm": 23,
           "gs": 37,
-          "pontos": 18
+          "pontos": 21
         },
         {
           "posicao": 12,
           "equipa": "Cd Celeiros \"B\"",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 3,
           "empates": 6,
-          "derrotas": 11,
+          "derrotas": 12,
           "gm": 24,
-          "gs": 46,
+          "gs": 47,
           "pontos": 15
         },
         {
@@ -552,12 +353,12 @@
         {
           "posicao": 14,
           "equipa": "Panoiense Fc",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 2,
           "empates": 4,
-          "derrotas": 14,
-          "gm": 15,
-          "gs": 48,
+          "derrotas": 15,
+          "gm": 16,
+          "gs": 51,
           "pontos": 10
         }
       ]
@@ -623,6 +424,17 @@
         },
         {
           "posicao": 4,
+          "equipa": "Ud Vila Chã",
+          "jogos": 17,
+          "vitorias": 11,
+          "empates": 0,
+          "derrotas": 6,
+          "gm": 55,
+          "gs": 31,
+          "pontos": 33
+        },
+        {
+          "posicao": 5,
           "equipa": "Cd Lousado",
           "jogos": 16,
           "vitorias": 10,
@@ -633,36 +445,25 @@
           "pontos": 32
         },
         {
-          "posicao": 5,
-          "equipa": "Ud Vila Chã",
-          "jogos": 16,
-          "vitorias": 10,
-          "empates": 0,
-          "derrotas": 6,
-          "gm": 46,
-          "gs": 27,
-          "pontos": 30
-        },
-        {
           "posicao": 6,
           "equipa": "Ud Calendário",
-          "jogos": 16,
-          "vitorias": 7,
+          "jogos": 17,
+          "vitorias": 8,
           "empates": 2,
           "derrotas": 7,
-          "gm": 34,
-          "gs": 30,
-          "pontos": 23
+          "gm": 37,
+          "gs": 32,
+          "pontos": 26
         },
         {
           "posicao": 7,
           "equipa": "Gd Guisande",
-          "jogos": 16,
+          "jogos": 17,
           "vitorias": 7,
           "empates": 1,
-          "derrotas": 8,
-          "gm": 33,
-          "gs": 38,
+          "derrotas": 9,
+          "gm": 35,
+          "gs": 41,
           "pontos": 22
         },
         {
@@ -690,12 +491,12 @@
         {
           "posicao": 10,
           "equipa": "Ribeirão 1968 Fc",
-          "jogos": 16,
+          "jogos": 17,
           "vitorias": 4,
           "empates": 3,
-          "derrotas": 9,
-          "gm": 23,
-          "gs": 39,
+          "derrotas": 10,
+          "gm": 27,
+          "gs": 48,
           "pontos": 15
         },
         {
@@ -732,6 +533,17 @@
       "tabela": [
         {
           "posicao": 1,
+          "equipa": "Berço Sc",
+          "jogos": 21,
+          "vitorias": 17,
+          "empates": 4,
+          "derrotas": 0,
+          "gm": 53,
+          "gs": 14,
+          "pontos": 55
+        },
+        {
+          "posicao": 2,
           "equipa": "Ad Fafe",
           "jogos": 19,
           "vitorias": 17,
@@ -739,17 +551,6 @@
           "derrotas": 1,
           "gm": 53,
           "gs": 9,
-          "pontos": 52
-        },
-        {
-          "posicao": 2,
-          "equipa": "Berço Sc",
-          "jogos": 20,
-          "vitorias": 16,
-          "empates": 4,
-          "derrotas": 0,
-          "gm": 52,
-          "gs": 14,
           "pontos": 52
         },
         {
@@ -766,13 +567,13 @@
         {
           "posicao": 4,
           "equipa": "Merelinense Fc",
-          "jogos": 21,
-          "vitorias": 13,
+          "jogos": 22,
+          "vitorias": 14,
           "empates": 4,
           "derrotas": 4,
-          "gm": 45,
-          "gs": 28,
-          "pontos": 43
+          "gm": 49,
+          "gs": 30,
+          "pontos": 46
         },
         {
           "posicao": 5,
@@ -788,12 +589,12 @@
         {
           "posicao": 6,
           "equipa": "Gd Joane",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 9,
           "empates": 4,
-          "derrotas": 7,
-          "gm": 32,
-          "gs": 34,
+          "derrotas": 8,
+          "gm": 33,
+          "gs": 36,
           "pontos": 31
         },
         {
@@ -810,27 +611,38 @@
         {
           "posicao": 8,
           "equipa": "Adr Vila",
-          "jogos": 20,
-          "vitorias": 7,
+          "jogos": 21,
+          "vitorias": 8,
           "empates": 3,
           "derrotas": 10,
-          "gm": 25,
-          "gs": 36,
-          "pontos": 24
+          "gm": 30,
+          "gs": 37,
+          "pontos": 27
         },
         {
           "posicao": 9,
           "equipa": "Ribeirão 1968 Fc",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 6,
           "empates": 5,
-          "derrotas": 9,
-          "gm": 19,
-          "gs": 35,
+          "derrotas": 10,
+          "gm": 20,
+          "gs": 40,
           "pontos": 23
         },
         {
           "posicao": 10,
+          "equipa": "Cd Lousado",
+          "jogos": 20,
+          "vitorias": 5,
+          "empates": 4,
+          "derrotas": 11,
+          "gm": 16,
+          "gs": 31,
+          "pontos": 19
+        },
+        {
+          "posicao": 11,
           "equipa": "Dumiense Cjp Futebol Sad",
           "jogos": 20,
           "vitorias": 5,
@@ -841,18 +653,18 @@
           "pontos": 18
         },
         {
-          "posicao": 11,
+          "posicao": 12,
           "equipa": "Os Sandinenses Gdrc",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 5,
           "empates": 3,
-          "derrotas": 12,
+          "derrotas": 13,
           "gm": 21,
-          "gs": 30,
+          "gs": 31,
           "pontos": 18
         },
         {
-          "posicao": 12,
+          "posicao": 13,
           "equipa": "Cd Celeiros",
           "jogos": 20,
           "vitorias": 4,
@@ -861,17 +673,6 @@
           "gm": 22,
           "gs": 43,
           "pontos": 17
-        },
-        {
-          "posicao": 13,
-          "equipa": "Cd Lousado",
-          "jogos": 19,
-          "vitorias": 4,
-          "empates": 4,
-          "derrotas": 11,
-          "gm": 14,
-          "gs": 30,
-          "pontos": 16
         },
         {
           "posicao": 14,
@@ -887,12 +688,12 @@
         {
           "posicao": 15,
           "equipa": "Fc Amares",
-          "jogos": 18,
+          "jogos": 19,
           "vitorias": 1,
           "empates": 2,
-          "derrotas": 15,
-          "gm": 9,
-          "gs": 43,
+          "derrotas": 16,
+          "gm": 11,
+          "gs": 47,
           "pontos": 5
         },
         {
@@ -941,12 +742,12 @@
         {
           "posicao": 3,
           "equipa": "Ad Esposende",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 14,
           "empates": 2,
-          "derrotas": 3,
+          "derrotas": 4,
           "gm": 54,
-          "gs": 29,
+          "gs": 31,
           "pontos": 44
         },
         {
@@ -1007,13 +808,13 @@
         {
           "posicao": 9,
           "equipa": "Fc Tadim",
-          "jogos": 20,
-          "vitorias": 6,
+          "jogos": 21,
+          "vitorias": 7,
           "empates": 4,
           "derrotas": 10,
-          "gm": 22,
+          "gm": 24,
           "gs": 39,
-          "pontos": 22
+          "pontos": 25
         },
         {
           "posicao": 10,
@@ -1147,12 +948,12 @@
         {
           "posicao": 6,
           "equipa": "Santa Maria Fc",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 8,
           "empates": 2,
-          "derrotas": 9,
+          "derrotas": 10,
           "gm": 38,
-          "gs": 43,
+          "gs": 47,
           "pontos": 26
         },
         {
@@ -1190,6 +991,17 @@
         },
         {
           "posicao": 10,
+          "equipa": "Cd Maximinense",
+          "jogos": 20,
+          "vitorias": 7,
+          "empates": 1,
+          "derrotas": 12,
+          "gm": 34,
+          "gs": 48,
+          "pontos": 22
+        },
+        {
+          "posicao": 11,
           "equipa": "Arsenal Devesa",
           "jogos": 18,
           "vitorias": 6,
@@ -1200,7 +1012,7 @@
           "pontos": 21
         },
         {
-          "posicao": 11,
+          "posicao": 12,
           "equipa": "A.F.C. Gondizalves",
           "jogos": 19,
           "vitorias": 6,
@@ -1209,17 +1021,6 @@
           "gm": 23,
           "gs": 41,
           "pontos": 20
-        },
-        {
-          "posicao": 12,
-          "equipa": "Cd Maximinense",
-          "jogos": 19,
-          "vitorias": 6,
-          "empates": 1,
-          "derrotas": 12,
-          "gm": 30,
-          "gs": 48,
-          "pontos": 19
         },
         {
           "posicao": 13,
@@ -1256,46 +1057,46 @@
         {
           "posicao": 1,
           "equipa": "Fc Roriz \"A\"",
-          "jogos": 15,
-          "vitorias": 13,
+          "jogos": 16,
+          "vitorias": 14,
           "empates": 1,
           "derrotas": 1,
-          "gm": 79,
+          "gm": 99,
           "gs": 14,
-          "pontos": 40
+          "pontos": 43
         },
         {
           "posicao": 2,
           "equipa": "Ud Vila Chã",
-          "jogos": 14,
-          "vitorias": 12,
+          "jogos": 15,
+          "vitorias": 13,
           "empates": 1,
           "derrotas": 1,
-          "gm": 61,
-          "gs": 16,
-          "pontos": 37
+          "gm": 63,
+          "gs": 17,
+          "pontos": 40
         },
         {
           "posicao": 3,
           "equipa": "Ad Esposende",
-          "jogos": 15,
+          "jogos": 16,
           "vitorias": 11,
           "empates": 2,
-          "derrotas": 2,
-          "gm": 70,
-          "gs": 17,
+          "derrotas": 3,
+          "gm": 71,
+          "gs": 19,
           "pontos": 35
         },
         {
           "posicao": 4,
           "equipa": "Arc Águias Alvelos",
-          "jogos": 16,
-          "vitorias": 10,
+          "jogos": 17,
+          "vitorias": 11,
           "empates": 2,
           "derrotas": 4,
-          "gm": 50,
-          "gs": 30,
-          "pontos": 32
+          "gm": 56,
+          "gs": 31,
+          "pontos": 35
         },
         {
           "posicao": 5,
@@ -1333,16 +1134,27 @@
         {
           "posicao": 8,
           "equipa": "Gandra Fc",
-          "jogos": 15,
+          "jogos": 16,
           "vitorias": 6,
           "empates": 1,
-          "derrotas": 8,
-          "gm": 34,
-          "gs": 49,
+          "derrotas": 9,
+          "gm": 35,
+          "gs": 55,
           "pontos": 19
         },
         {
           "posicao": 9,
+          "equipa": "Gdc Cristelo",
+          "jogos": 15,
+          "vitorias": 3,
+          "empates": 1,
+          "derrotas": 11,
+          "gm": 33,
+          "gs": 49,
+          "pontos": 10
+        },
+        {
+          "posicao": 10,
           "equipa": "Forjães Sc",
           "jogos": 13,
           "vitorias": 3,
@@ -1353,18 +1165,18 @@
           "pontos": 10
         },
         {
-          "posicao": 10,
-          "equipa": "Gdc Cristelo",
-          "jogos": 14,
-          "vitorias": 3,
-          "empates": 0,
-          "derrotas": 11,
-          "gm": 30,
-          "gs": 46,
-          "pontos": 9
+          "posicao": 11,
+          "equipa": "Gd Fragoso",
+          "jogos": 16,
+          "vitorias": 1,
+          "empates": 3,
+          "derrotas": 12,
+          "gm": 7,
+          "gs": 63,
+          "pontos": 6
         },
         {
-          "posicao": 11,
+          "posicao": 12,
           "equipa": "M.A.R.C.A.",
           "jogos": 15,
           "vitorias": 1,
@@ -1375,25 +1187,14 @@
           "pontos": 5
         },
         {
-          "posicao": 12,
-          "equipa": "Gd Fragoso",
-          "jogos": 15,
-          "vitorias": 1,
-          "empates": 2,
-          "derrotas": 12,
-          "gm": 4,
-          "gs": 60,
-          "pontos": 5
-        },
-        {
           "posicao": 13,
           "equipa": "Arc Várzea",
-          "jogos": 14,
+          "jogos": 15,
           "vitorias": 1,
           "empates": 1,
-          "derrotas": 12,
+          "derrotas": 13,
           "gm": 5,
-          "gs": 95,
+          "gs": 115,
           "pontos": 4
         },
         {
@@ -1420,27 +1221,38 @@
         {
           "posicao": 1,
           "equipa": "Ad Esposende",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 14,
-          "empates": 3,
+          "empates": 4,
           "derrotas": 4,
-          "gm": 53,
-          "gs": 22,
-          "pontos": 45
+          "gm": 55,
+          "gs": 24,
+          "pontos": 46
         },
         {
           "posicao": 2,
           "equipa": "Merelinense Fc",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 13,
           "empates": 6,
-          "derrotas": 2,
-          "gm": 57,
-          "gs": 28,
+          "derrotas": 3,
+          "gm": 58,
+          "gs": 32,
           "pontos": 45
         },
         {
           "posicao": 3,
+          "equipa": "Fc Marinhas",
+          "jogos": 22,
+          "vitorias": 13,
+          "empates": 3,
+          "derrotas": 6,
+          "gm": 49,
+          "gs": 35,
+          "pontos": 42
+        },
+        {
+          "posicao": 4,
           "equipa": "Gil Vicente Fc",
           "jogos": 22,
           "vitorias": 12,
@@ -1451,7 +1263,7 @@
           "pontos": 40
         },
         {
-          "posicao": 4,
+          "posicao": 5,
           "equipa": "Gd Prado",
           "jogos": 22,
           "vitorias": 12,
@@ -1462,26 +1274,15 @@
           "pontos": 39
         },
         {
-          "posicao": 5,
-          "equipa": "Fc Marinhas",
-          "jogos": 21,
-          "vitorias": 12,
-          "empates": 3,
-          "derrotas": 6,
-          "gm": 45,
-          "gs": 34,
-          "pontos": 39
-        },
-        {
           "posicao": 6,
           "equipa": "Santa Maria Fc",
-          "jogos": 20,
-          "vitorias": 10,
+          "jogos": 21,
+          "vitorias": 11,
           "empates": 4,
           "derrotas": 6,
-          "gm": 40,
-          "gs": 24,
-          "pontos": 34
+          "gm": 45,
+          "gs": 26,
+          "pontos": 37
         },
         {
           "posicao": 7,
@@ -1497,27 +1298,38 @@
         {
           "posicao": 8,
           "equipa": "Moreirense Fc, Sad",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 8,
           "empates": 8,
-          "derrotas": 5,
-          "gm": 47,
-          "gs": 38,
+          "derrotas": 6,
+          "gm": 48,
+          "gs": 40,
           "pontos": 32
         },
         {
           "posicao": 9,
           "equipa": "A.F.C. Gondizalves",
-          "jogos": 21,
-          "vitorias": 9,
+          "jogos": 22,
+          "vitorias": 10,
           "empates": 1,
           "derrotas": 11,
-          "gm": 41,
+          "gm": 43,
           "gs": 39,
-          "pontos": 28
+          "pontos": 31
         },
         {
           "posicao": 10,
+          "equipa": "Sc Maria Fonte",
+          "jogos": 22,
+          "vitorias": 7,
+          "empates": 4,
+          "derrotas": 11,
+          "gm": 40,
+          "gs": 47,
+          "pontos": 25
+        },
+        {
+          "posicao": 11,
           "equipa": "Acd Águias Alvite",
           "jogos": 20,
           "vitorias": 7,
@@ -1528,7 +1340,7 @@
           "pontos": 24
         },
         {
-          "posicao": 11,
+          "posicao": 12,
           "equipa": "Ccr Infias",
           "jogos": 21,
           "vitorias": 7,
@@ -1539,18 +1351,18 @@
           "pontos": 24
         },
         {
-          "posicao": 12,
-          "equipa": "Sc Maria Fonte",
+          "posicao": 13,
+          "equipa": "Gdr Os Amigos Urgeses",
           "jogos": 21,
-          "vitorias": 7,
-          "empates": 3,
-          "derrotas": 11,
-          "gm": 38,
-          "gs": 45,
-          "pontos": 24
+          "vitorias": 4,
+          "empates": 7,
+          "derrotas": 10,
+          "gm": 32,
+          "gs": 43,
+          "pontos": 19
         },
         {
-          "posicao": 13,
+          "posicao": 14,
           "equipa": "Dumiense Cjp Futebol Sad",
           "jogos": 20,
           "vitorias": 6,
@@ -1561,36 +1373,25 @@
           "pontos": 18
         },
         {
-          "posicao": 14,
-          "equipa": "Gdr Os Amigos Urgeses",
-          "jogos": 20,
-          "vitorias": 3,
-          "empates": 7,
-          "derrotas": 10,
-          "gm": 30,
-          "gs": 42,
-          "pontos": 16
-        },
-        {
           "posicao": 15,
           "equipa": "Palmeiras Fc",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 5,
           "empates": 0,
-          "derrotas": 15,
+          "derrotas": 16,
           "gm": 40,
-          "gs": 62,
+          "gs": 64,
           "pontos": 15
         },
         {
           "posicao": 16,
           "equipa": "Lomarense Gc",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 4,
           "empates": 0,
-          "derrotas": 16,
-          "gm": 32,
-          "gs": 84,
+          "derrotas": 17,
+          "gm": 34,
+          "gs": 89,
           "pontos": 12
         }
       ]
@@ -1626,12 +1427,12 @@
         {
           "posicao": 2,
           "equipa": "Arsenal Devesa",
-          "jogos": 17,
+          "jogos": 18,
           "vitorias": 14,
           "empates": 1,
-          "derrotas": 2,
+          "derrotas": 3,
           "gm": 50,
-          "gs": 13,
+          "gs": 14,
           "pontos": 43
         },
         {
@@ -1659,13 +1460,13 @@
         {
           "posicao": 5,
           "equipa": "Fc Amares",
-          "jogos": 17,
-          "vitorias": 12,
+          "jogos": 18,
+          "vitorias": 13,
           "empates": 1,
           "derrotas": 4,
-          "gm": 53,
+          "gm": 54,
           "gs": 25,
-          "pontos": 37
+          "pontos": 40
         },
         {
           "posicao": 6,
@@ -1811,6 +1612,17 @@
         },
         {
           "posicao": 4,
+          "equipa": "Ad Esposende",
+          "jogos": 15,
+          "vitorias": 10,
+          "empates": 0,
+          "derrotas": 5,
+          "gm": 65,
+          "gs": 22,
+          "pontos": 30
+        },
+        {
+          "posicao": 5,
           "equipa": "Arc Várzea",
           "jogos": 16,
           "vitorias": 9,
@@ -1819,17 +1631,6 @@
           "gm": 57,
           "gs": 38,
           "pontos": 28
-        },
-        {
-          "posicao": 5,
-          "equipa": "Ad Esposende",
-          "jogos": 14,
-          "vitorias": 9,
-          "empates": 0,
-          "derrotas": 5,
-          "gm": 60,
-          "gs": 22,
-          "pontos": 27
         },
         {
           "posicao": 6,
@@ -1845,13 +1646,13 @@
         {
           "posicao": 7,
           "equipa": "M.A.R.C.A.",
-          "jogos": 16,
-          "vitorias": 8,
+          "jogos": 17,
+          "vitorias": 9,
           "empates": 0,
           "derrotas": 8,
-          "gm": 45,
+          "gm": 58,
           "gs": 40,
-          "pontos": 24
+          "pontos": 27
         },
         {
           "posicao": 8,
@@ -1878,23 +1679,23 @@
         {
           "posicao": 10,
           "equipa": "Forjães Sc",
-          "jogos": 16,
+          "jogos": 17,
           "vitorias": 3,
           "empates": 1,
-          "derrotas": 12,
+          "derrotas": 13,
           "gm": 26,
-          "gs": 72,
+          "gs": 77,
           "pontos": 10
         },
         {
           "posicao": 11,
           "equipa": "Cávado Fc",
-          "jogos": 13,
+          "jogos": 14,
           "vitorias": 1,
           "empates": 2,
-          "derrotas": 10,
+          "derrotas": 11,
           "gm": 16,
-          "gs": 85,
+          "gs": 98,
           "pontos": 5
         },
         {
@@ -1932,24 +1733,24 @@
         {
           "posicao": 2,
           "equipa": "Académico Fc Martim",
-          "jogos": 12,
+          "jogos": 13,
           "vitorias": 9,
           "empates": 0,
-          "derrotas": 3,
-          "gm": 48,
-          "gs": 11,
+          "derrotas": 4,
+          "gm": 50,
+          "gs": 14,
           "pontos": 27
         },
         {
           "posicao": 3,
           "equipa": "Sc Ucha",
-          "jogos": 12,
-          "vitorias": 6,
+          "jogos": 13,
+          "vitorias": 7,
           "empates": 4,
           "derrotas": 2,
-          "gm": 37,
-          "gs": 14,
-          "pontos": 22
+          "gm": 40,
+          "gs": 16,
+          "pontos": 25
         },
         {
           "posicao": 4,
@@ -2040,6 +1841,28 @@
       "tabela": [
         {
           "posicao": 1,
+          "equipa": "Moreirense Fc, Sad",
+          "jogos": 22,
+          "vitorias": 16,
+          "empates": 3,
+          "derrotas": 3,
+          "gm": 75,
+          "gs": 17,
+          "pontos": 51
+        },
+        {
+          "posicao": 2,
+          "equipa": "Palmeiras Fc",
+          "jogos": 22,
+          "vitorias": 16,
+          "empates": 3,
+          "derrotas": 3,
+          "gm": 72,
+          "gs": 26,
+          "pontos": 51
+        },
+        {
+          "posicao": 3,
           "equipa": "Os Sandinenses Gdrc",
           "jogos": 21,
           "vitorias": 16,
@@ -2048,28 +1871,6 @@
           "gm": 38,
           "gs": 18,
           "pontos": 50
-        },
-        {
-          "posicao": 2,
-          "equipa": "Moreirense Fc, Sad",
-          "jogos": 21,
-          "vitorias": 15,
-          "empates": 3,
-          "derrotas": 3,
-          "gm": 72,
-          "gs": 15,
-          "pontos": 48
-        },
-        {
-          "posicao": 3,
-          "equipa": "Palmeiras Fc",
-          "jogos": 21,
-          "vitorias": 15,
-          "empates": 3,
-          "derrotas": 3,
-          "gm": 66,
-          "gs": 25,
-          "pontos": 48
         },
         {
           "posicao": 4,
@@ -2129,16 +1930,27 @@
         {
           "posicao": 9,
           "equipa": "Ad Fafe",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 8,
           "empates": 4,
-          "derrotas": 7,
-          "gm": 33,
-          "gs": 32,
+          "derrotas": 8,
+          "gm": 35,
+          "gs": 35,
           "pontos": 28
         },
         {
           "posicao": 10,
+          "equipa": "Gil Vicente Fc",
+          "jogos": 23,
+          "vitorias": 8,
+          "empates": 3,
+          "derrotas": 12,
+          "gm": 38,
+          "gs": 51,
+          "pontos": 27
+        },
+        {
+          "posicao": 11,
           "equipa": "Acd Águias Alvite",
           "jogos": 21,
           "vitorias": 7,
@@ -2149,58 +1961,47 @@
           "pontos": 27
         },
         {
-          "posicao": 11,
+          "posicao": 12,
           "equipa": "Gd Prado",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 8,
           "empates": 2,
-          "derrotas": 11,
-          "gm": 46,
-          "gs": 48,
-          "pontos": 26
-        },
-        {
-          "posicao": 12,
-          "equipa": "Gil Vicente Fc",
-          "jogos": 22,
-          "vitorias": 7,
-          "empates": 3,
           "derrotas": 12,
-          "gm": 34,
-          "gs": 51,
-          "pontos": 24
+          "gm": 46,
+          "gs": 52,
+          "pontos": 26
         },
         {
           "posicao": 13,
           "equipa": "Vitória Sc, Sad",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 6,
           "empates": 6,
-          "derrotas": 9,
-          "gm": 43,
-          "gs": 36,
+          "derrotas": 10,
+          "gm": 44,
+          "gs": 42,
           "pontos": 24
         },
         {
           "posicao": 14,
           "equipa": "Lomarense Gc",
-          "jogos": 21,
-          "vitorias": 5,
+          "jogos": 22,
+          "vitorias": 6,
           "empates": 4,
           "derrotas": 12,
-          "gm": 29,
-          "gs": 37,
-          "pontos": 19
+          "gm": 31,
+          "gs": 38,
+          "pontos": 22
         },
         {
           "posicao": 15,
           "equipa": "Brito Sc",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 1,
           "empates": 1,
-          "derrotas": 19,
-          "gm": 13,
-          "gs": 81,
+          "derrotas": 20,
+          "gm": 14,
+          "gs": 83,
           "pontos": 4
         },
         {
@@ -2280,24 +2081,24 @@
       "tabela": [
         {
           "posicao": 1,
-          "equipa": "Cf Fão",
+          "equipa": "C.R.P. Delães",
           "jogos": 7,
-          "vitorias": 6,
+          "vitorias": 7,
           "empates": 0,
-          "derrotas": 1,
-          "gm": 30,
-          "gs": 15,
-          "pontos": 18
+          "derrotas": 0,
+          "gm": 31,
+          "gs": 14,
+          "pontos": 21
         },
         {
           "posicao": 2,
-          "equipa": "C.R.P. Delães",
-          "jogos": 6,
+          "equipa": "Cf Fão",
+          "jogos": 8,
           "vitorias": 6,
           "empates": 0,
-          "derrotas": 0,
-          "gm": 27,
-          "gs": 12,
+          "derrotas": 2,
+          "gm": 32,
+          "gs": 19,
           "pontos": 18
         },
         {
@@ -2325,13 +2126,13 @@
         {
           "posicao": 5,
           "equipa": "Necessidades Fc",
-          "jogos": 6,
-          "vitorias": 3,
+          "jogos": 7,
+          "vitorias": 4,
           "empates": 0,
           "derrotas": 3,
-          "gm": 16,
-          "gs": 17,
-          "pontos": 9
+          "gm": 21,
+          "gs": 19,
+          "pontos": 12
         },
         {
           "posicao": 6,
@@ -2347,12 +2148,12 @@
         {
           "posicao": 7,
           "equipa": "Acd Carapeços",
-          "jogos": 6,
+          "jogos": 7,
           "vitorias": 1,
           "empates": 0,
-          "derrotas": 5,
-          "gm": 9,
-          "gs": 40,
+          "derrotas": 6,
+          "gm": 11,
+          "gs": 45,
           "pontos": 3
         },
         {
@@ -2401,13 +2202,13 @@
         {
           "posicao": 1,
           "equipa": "Gd Apúlia",
-          "jogos": 7,
-          "vitorias": 7,
+          "jogos": 8,
+          "vitorias": 8,
           "empates": 0,
           "derrotas": 0,
-          "gm": 46,
-          "gs": 10,
-          "pontos": 21
+          "gm": 48,
+          "gs": 11,
+          "pontos": 24
         },
         {
           "posicao": 2,
@@ -2423,12 +2224,12 @@
         {
           "posicao": 3,
           "equipa": "Gd Prado \"B\"",
-          "jogos": 7,
+          "jogos": 8,
           "vitorias": 3,
           "empates": 1,
-          "derrotas": 3,
-          "gm": 17,
-          "gs": 17,
+          "derrotas": 4,
+          "gm": 18,
+          "gs": 19,
           "pontos": 10
         },
         {
@@ -2553,27 +2354,38 @@
         {
           "posicao": 1,
           "equipa": "Ad Carreira \"A\"",
-          "jogos": 5,
-          "vitorias": 5,
+          "jogos": 6,
+          "vitorias": 6,
           "empates": 0,
           "derrotas": 0,
-          "gm": 38,
-          "gs": 2,
-          "pontos": 15
+          "gm": 45,
+          "gs": 4,
+          "pontos": 18
         },
         {
           "posicao": 2,
           "equipa": "Gd Apúlia \"B\"",
-          "jogos": 6,
+          "jogos": 7,
           "vitorias": 4,
           "empates": 2,
-          "derrotas": 0,
-          "gm": 30,
-          "gs": 15,
+          "derrotas": 1,
+          "gm": 32,
+          "gs": 22,
           "pontos": 14
         },
         {
           "posicao": 3,
+          "equipa": "Arc Águias Alvelos \"B\"",
+          "jogos": 6,
+          "vitorias": 3,
+          "empates": 2,
+          "derrotas": 1,
+          "gm": 35,
+          "gs": 12,
+          "pontos": 11
+        },
+        {
+          "posicao": 4,
           "equipa": "Gandra Fc",
           "jogos": 6,
           "vitorias": 3,
@@ -2584,47 +2396,36 @@
           "pontos": 10
         },
         {
-          "posicao": 4,
-          "equipa": "Arc Águias Alvelos \"B\"",
-          "jogos": 5,
-          "vitorias": 2,
-          "empates": 2,
-          "derrotas": 1,
-          "gm": 27,
-          "gs": 9,
-          "pontos": 8
-        },
-        {
           "posicao": 5,
-          "equipa": "Gdc Cristelo",
-          "jogos": 6,
+          "equipa": "Ad Esposende \"B\"",
+          "jogos": 7,
           "vitorias": 2,
-          "empates": 1,
-          "derrotas": 3,
-          "gm": 16,
-          "gs": 39,
-          "pontos": 7
+          "empates": 3,
+          "derrotas": 2,
+          "gm": 23,
+          "gs": 28,
+          "pontos": 9
         },
         {
           "posicao": 6,
-          "equipa": "Ad Esposende \"B\"",
-          "jogos": 6,
-          "vitorias": 1,
-          "empates": 3,
-          "derrotas": 2,
-          "gm": 16,
-          "gs": 26,
-          "pontos": 6
+          "equipa": "Gdc Cristelo",
+          "jogos": 7,
+          "vitorias": 2,
+          "empates": 1,
+          "derrotas": 4,
+          "gm": 18,
+          "gs": 46,
+          "pontos": 7
         },
         {
           "posicao": 7,
           "equipa": "Arc Várzea \"B\"",
-          "jogos": 6,
+          "jogos": 7,
           "vitorias": 0,
           "empates": 2,
-          "derrotas": 4,
-          "gm": 12,
-          "gs": 31,
+          "derrotas": 5,
+          "gm": 15,
+          "gs": 39,
           "pontos": 2
         },
         {
@@ -2891,16 +2692,27 @@
         {
           "posicao": 1,
           "equipa": "Gcd Águias Negras Tabuadelo",
-          "jogos": 5,
-          "vitorias": 5,
+          "jogos": 6,
+          "vitorias": 6,
           "empates": 0,
           "derrotas": 0,
-          "gm": 24,
+          "gm": 28,
           "gs": 0,
-          "pontos": 15
+          "pontos": 18
         },
         {
           "posicao": 2,
+          "equipa": "Brito Sc",
+          "jogos": 6,
+          "vitorias": 3,
+          "empates": 0,
+          "derrotas": 3,
+          "gm": 12,
+          "gs": 8,
+          "pontos": 9
+        },
+        {
+          "posicao": 3,
           "equipa": "Atl. C. Alfenense",
           "jogos": 4,
           "vitorias": 2,
@@ -2911,25 +2723,14 @@
           "pontos": 7
         },
         {
-          "posicao": 3,
-          "equipa": "Brito Sc",
-          "jogos": 5,
-          "vitorias": 2,
-          "empates": 0,
-          "derrotas": 3,
-          "gm": 8,
-          "gs": 8,
-          "pontos": 6
-        },
-        {
           "posicao": 4,
           "equipa": "Gd Panteras Matamá",
-          "jogos": 3,
+          "jogos": 4,
           "vitorias": 0,
           "empates": 1,
-          "derrotas": 2,
+          "derrotas": 3,
           "gm": 1,
-          "gs": 8,
+          "gs": 12,
           "pontos": 1
         },
         {
@@ -2946,12 +2747,12 @@
         {
           "posicao": 6,
           "equipa": "C.R.P. Delães",
-          "jogos": 3,
+          "jogos": 4,
           "vitorias": 0,
           "empates": 0,
-          "derrotas": 3,
+          "derrotas": 4,
           "gm": 0,
-          "gs": 20,
+          "gs": 24,
           "pontos": 0
         }
       ]
@@ -2967,13 +2768,13 @@
         {
           "posicao": 1,
           "equipa": "Ccr Infias",
-          "jogos": 6,
-          "vitorias": 4,
+          "jogos": 7,
+          "vitorias": 5,
           "empates": 1,
           "derrotas": 1,
-          "gm": 13,
+          "gm": 23,
           "gs": 4,
-          "pontos": 13
+          "pontos": 16
         },
         {
           "posicao": 2,
@@ -2988,6 +2789,17 @@
         },
         {
           "posicao": 3,
+          "equipa": "Sc Valenciano",
+          "jogos": 7,
+          "vitorias": 3,
+          "empates": 1,
+          "derrotas": 3,
+          "gm": 8,
+          "gs": 20,
+          "pontos": 10
+        },
+        {
+          "posicao": 4,
           "equipa": "Acrd Arsenal Crespos",
           "jogos": 5,
           "vitorias": 2,
@@ -2998,36 +2810,25 @@
           "pontos": 9
         },
         {
-          "posicao": 4,
-          "equipa": "Sc Valenciano",
-          "jogos": 6,
-          "vitorias": 2,
-          "empates": 1,
-          "derrotas": 3,
-          "gm": 5,
-          "gs": 20,
-          "pontos": 7
-        },
-        {
           "posicao": 5,
           "equipa": "Ad Darquense",
-          "jogos": 6,
+          "jogos": 7,
           "vitorias": 1,
           "empates": 1,
-          "derrotas": 4,
+          "derrotas": 5,
           "gm": 6,
-          "gs": 8,
+          "gs": 11,
           "pontos": 4
         },
         {
           "posicao": 6,
           "equipa": "Atlético Arcos",
-          "jogos": 6,
+          "jogos": 7,
           "vitorias": 1,
           "empates": 0,
-          "derrotas": 5,
+          "derrotas": 6,
           "gm": 4,
-          "gs": 17,
+          "gs": 27,
           "pontos": 3
         }
       ]
@@ -3042,28 +2843,39 @@
       "tabela": [
         {
           "posicao": 1,
-          "equipa": "Cd Ponte",
-          "jogos": 4,
+          "equipa": "Deucriste Sc",
+          "jogos": 7,
           "vitorias": 4,
           "empates": 0,
-          "derrotas": 0,
-          "gm": 17,
-          "gs": 6,
+          "derrotas": 3,
+          "gm": 21,
+          "gs": 17,
           "pontos": 12
         },
         {
           "posicao": 2,
-          "equipa": "Deucriste Sc",
-          "jogos": 6,
-          "vitorias": 3,
+          "equipa": "Cd Ponte",
+          "jogos": 5,
+          "vitorias": 4,
           "empates": 0,
-          "derrotas": 3,
-          "gm": 17,
-          "gs": 15,
-          "pontos": 9
+          "derrotas": 1,
+          "gm": 19,
+          "gs": 10,
+          "pontos": 12
         },
         {
           "posicao": 3,
+          "equipa": "Regadinhas Freiriz Adc",
+          "jogos": 6,
+          "vitorias": 2,
+          "empates": 2,
+          "derrotas": 2,
+          "gm": 12,
+          "gs": 8,
+          "pontos": 8
+        },
+        {
+          "posicao": 4,
           "equipa": "Ef Fintas",
           "jogos": 4,
           "vitorias": 2,
@@ -3074,26 +2886,15 @@
           "pontos": 7
         },
         {
-          "posicao": 4,
-          "equipa": "Regadinhas Freiriz Adc",
-          "jogos": 5,
-          "vitorias": 2,
-          "empates": 1,
-          "derrotas": 2,
-          "gm": 12,
-          "gs": 8,
-          "pontos": 7
-        },
-        {
           "posicao": 5,
           "equipa": "Desp. S. Cosme",
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 1,
-          "empates": 1,
+          "empates": 2,
           "derrotas": 2,
           "gm": 7,
           "gs": 12,
-          "pontos": 4
+          "pontos": 5
         },
         {
           "posicao": 6,
