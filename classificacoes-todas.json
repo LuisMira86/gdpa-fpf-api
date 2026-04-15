@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-14T07:53:49.352Z",
+  "fetchedAt": "2026-04-15T07:54:08.531Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -14,6 +14,17 @@
       "tabela": [
         {
           "posicao": 1,
+          "equipa": "Sc Maria Fonte",
+          "jogos": 28,
+          "vitorias": 18,
+          "empates": 6,
+          "derrotas": 4,
+          "gm": 55,
+          "gs": 24,
+          "pontos": 60
+        },
+        {
+          "posicao": 2,
           "equipa": "Pevidem Sc Sad",
           "jogos": 28,
           "vitorias": 19,
@@ -21,17 +32,6 @@
           "derrotas": 7,
           "gm": 62,
           "gs": 43,
-          "pontos": 59
-        },
-        {
-          "posicao": 2,
-          "equipa": "Sc Maria Fonte",
-          "jogos": 27,
-          "vitorias": 18,
-          "empates": 5,
-          "derrotas": 4,
-          "gm": 55,
-          "gs": 24,
           "pontos": 59
         },
         {
@@ -92,12 +92,12 @@
         {
           "posicao": 8,
           "equipa": "Gd Joane",
-          "jogos": 27,
+          "jogos": 28,
           "vitorias": 11,
           "empates": 8,
-          "derrotas": 8,
+          "derrotas": 9,
           "gm": 39,
-          "gs": 36,
+          "gs": 39,
           "pontos": 41
         },
         {
@@ -124,6 +124,17 @@
         },
         {
           "posicao": 11,
+          "equipa": "Fc Marinhas",
+          "jogos": 28,
+          "vitorias": 11,
+          "empates": 6,
+          "derrotas": 11,
+          "gm": 46,
+          "gs": 43,
+          "pontos": 39
+        },
+        {
+          "posicao": 12,
           "equipa": "Berço Sdq",
           "jogos": 28,
           "vitorias": 11,
@@ -134,7 +145,7 @@
           "pontos": 39
         },
         {
-          "posicao": 12,
+          "posicao": 13,
           "equipa": "Ad Esposende",
           "jogos": 28,
           "vitorias": 10,
@@ -145,7 +156,7 @@
           "pontos": 38
         },
         {
-          "posicao": 13,
+          "posicao": 14,
           "equipa": "Gd Prado",
           "jogos": 28,
           "vitorias": 10,
@@ -154,17 +165,6 @@
           "gm": 43,
           "gs": 42,
           "pontos": 37
-        },
-        {
-          "posicao": 14,
-          "equipa": "Fc Marinhas",
-          "jogos": 27,
-          "vitorias": 10,
-          "empates": 6,
-          "derrotas": 11,
-          "gm": 43,
-          "gs": 43,
-          "pontos": 36
         },
         {
           "posicao": 15,
@@ -180,13 +180,13 @@
         {
           "posicao": 16,
           "equipa": "Vieira Sc",
-          "jogos": 27,
+          "jogos": 28,
           "vitorias": 5,
-          "empates": 8,
+          "empates": 9,
           "derrotas": 14,
           "gm": 31,
           "gs": 49,
-          "pontos": 23
+          "pontos": 24
         },
         {
           "posicao": 17,
@@ -744,24 +744,24 @@
         {
           "posicao": 2,
           "equipa": "Ad Fafe",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 17,
           "empates": 1,
-          "derrotas": 1,
-          "gm": 53,
-          "gs": 9,
+          "derrotas": 2,
+          "gm": 54,
+          "gs": 12,
           "pontos": 52
         },
         {
           "posicao": 3,
           "equipa": "Moreirense Fc, Sad",
-          "jogos": 19,
-          "vitorias": 15,
+          "jogos": 20,
+          "vitorias": 16,
           "empates": 2,
           "derrotas": 2,
-          "gm": 53,
-          "gs": 21,
-          "pontos": 47
+          "gm": 56,
+          "gs": 22,
+          "pontos": 50
         },
         {
           "posicao": 4,
@@ -919,13 +919,13 @@
         {
           "posicao": 1,
           "equipa": "Sc Maria Fonte",
-          "jogos": 19,
-          "vitorias": 16,
+          "jogos": 20,
+          "vitorias": 17,
           "empates": 1,
           "derrotas": 2,
-          "gm": 72,
-          "gs": 24,
-          "pontos": 49
+          "gm": 75,
+          "gs": 26,
+          "pontos": 52
         },
         {
           "posicao": 2,
@@ -963,12 +963,12 @@
         {
           "posicao": 5,
           "equipa": "Arc Águias Alvelos",
-          "jogos": 19,
+          "jogos": 20,
           "vitorias": 10,
           "empates": 5,
-          "derrotas": 4,
-          "gm": 44,
-          "gs": 36,
+          "derrotas": 5,
+          "gm": 46,
+          "gs": 39,
           "pontos": 35
         },
         {
@@ -2096,13 +2096,13 @@
         {
           "posicao": 6,
           "equipa": "Sc Braga Sad",
-          "jogos": 20,
-          "vitorias": 10,
+          "jogos": 21,
+          "vitorias": 11,
           "empates": 5,
           "derrotas": 5,
-          "gm": 37,
+          "gm": 39,
           "gs": 26,
-          "pontos": 35
+          "pontos": 38
         },
         {
           "posicao": 7,
@@ -2151,12 +2151,12 @@
         {
           "posicao": 11,
           "equipa": "Acd Águias Alvite",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 7,
           "empates": 6,
-          "derrotas": 8,
+          "derrotas": 9,
           "gm": 37,
-          "gs": 28,
+          "gs": 30,
           "pontos": 27
         },
         {
@@ -2357,6 +2357,17 @@
         },
         {
           "posicao": 8,
+          "equipa": "M.A.R.C.A.",
+          "jogos": 6,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 5,
+          "gm": 17,
+          "gs": 25,
+          "pontos": 3
+        },
+        {
+          "posicao": 9,
           "equipa": "A Indicar",
           "jogos": 0,
           "vitorias": 0,
@@ -2367,25 +2378,14 @@
           "pontos": 0
         },
         {
-          "posicao": 9,
-          "equipa": "M.A.R.C.A.",
-          "jogos": 5,
-          "vitorias": 0,
-          "empates": 0,
-          "derrotas": 5,
-          "gm": 11,
-          "gs": 25,
-          "pontos": 0
-        },
-        {
           "posicao": 10,
           "equipa": "Cd Lago",
-          "jogos": 6,
+          "jogos": 7,
           "vitorias": 0,
           "empates": 0,
-          "derrotas": 6,
+          "derrotas": 7,
           "gm": 6,
-          "gs": 33,
+          "gs": 39,
           "pontos": 0
         }
       ]
