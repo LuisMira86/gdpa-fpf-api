@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-15T07:54:08.531Z",
+  "fetchedAt": "2026-04-16T07:53:59.809Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -1463,6 +1463,17 @@
         },
         {
           "posicao": 5,
+          "equipa": "Santa Maria Fc",
+          "jogos": 22,
+          "vitorias": 12,
+          "empates": 4,
+          "derrotas": 6,
+          "gm": 46,
+          "gs": 26,
+          "pontos": 40
+        },
+        {
+          "posicao": 6,
           "equipa": "Gd Prado",
           "jogos": 23,
           "vitorias": 12,
@@ -1471,17 +1482,6 @@
           "gm": 45,
           "gs": 38,
           "pontos": 39
-        },
-        {
-          "posicao": 6,
-          "equipa": "Santa Maria Fc",
-          "jogos": 21,
-          "vitorias": 11,
-          "empates": 4,
-          "derrotas": 6,
-          "gm": 45,
-          "gs": 26,
-          "pontos": 37
         },
         {
           "posicao": 7,
@@ -1563,12 +1563,12 @@
         {
           "posicao": 14,
           "equipa": "Dumiense Cjp Futebol Sad",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 6,
           "empates": 0,
-          "derrotas": 15,
+          "derrotas": 16,
           "gm": 23,
-          "gs": 73,
+          "gs": 74,
           "pontos": 18
         },
         {
@@ -2107,13 +2107,13 @@
         {
           "posicao": 7,
           "equipa": "Fc Famalicão",
-          "jogos": 21,
-          "vitorias": 10,
+          "jogos": 22,
+          "vitorias": 11,
           "empates": 4,
           "derrotas": 7,
-          "gm": 54,
-          "gs": 48,
-          "pontos": 34
+          "gm": 57,
+          "gs": 49,
+          "pontos": 37
         },
         {
           "posicao": 8,
@@ -2129,12 +2129,12 @@
         {
           "posicao": 9,
           "equipa": "Ad Fafe",
-          "jogos": 20,
+          "jogos": 21,
           "vitorias": 8,
           "empates": 4,
-          "derrotas": 8,
-          "gm": 35,
-          "gs": 35,
+          "derrotas": 9,
+          "gm": 36,
+          "gs": 38,
           "pontos": 28
         },
         {
