@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-17T07:54:34.646Z",
+  "fetchedAt": "2026-04-18T07:16:02.564Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -602,12 +602,12 @@
         {
           "posicao": 2,
           "equipa": "Gd Apúlia",
-          "jogos": 18,
+          "jogos": 19,
           "vitorias": 12,
           "empates": 3,
-          "derrotas": 3,
-          "gm": 54,
-          "gs": 25,
+          "derrotas": 4,
+          "gm": 55,
+          "gs": 28,
           "pontos": 39
         },
         {
@@ -624,13 +624,13 @@
         {
           "posicao": 4,
           "equipa": "Ud Vila Chã",
-          "jogos": 17,
-          "vitorias": 11,
+          "jogos": 18,
+          "vitorias": 12,
           "empates": 0,
           "derrotas": 6,
-          "gm": 55,
-          "gs": 31,
-          "pontos": 33
+          "gm": 58,
+          "gs": 32,
+          "pontos": 36
         },
         {
           "posicao": 5,
@@ -1300,13 +1300,13 @@
         {
           "posicao": 5,
           "equipa": "Cf Os Ceramistas",
-          "jogos": 17,
-          "vitorias": 10,
+          "jogos": 18,
+          "vitorias": 11,
           "empates": 2,
           "derrotas": 5,
-          "gm": 55,
+          "gm": 57,
           "gs": 35,
-          "pontos": 32
+          "pontos": 35
         },
         {
           "posicao": 6,
@@ -1344,12 +1344,12 @@
         {
           "posicao": 9,
           "equipa": "Gdc Cristelo",
-          "jogos": 15,
+          "jogos": 16,
           "vitorias": 3,
           "empates": 1,
-          "derrotas": 11,
+          "derrotas": 12,
           "gm": 33,
-          "gs": 49,
+          "gs": 51,
           "pontos": 10
         },
         {
@@ -2509,6 +2509,17 @@
         },
         {
           "posicao": 2,
+          "equipa": "A.F. De Viseu - Clube",
+          "jogos": 2,
+          "vitorias": 1,
+          "empates": 0,
+          "derrotas": 1,
+          "gm": 4,
+          "gs": 3,
+          "pontos": 3
+        },
+        {
+          "posicao": 3,
           "equipa": "A.F. Porto - Clube",
           "jogos": 0,
           "vitorias": 0,
@@ -2519,24 +2530,13 @@
           "pontos": 0
         },
         {
-          "posicao": 2,
-          "equipa": "A.F. Viana Do Castelo - Clube",
-          "jogos": 0,
-          "vitorias": 0,
-          "empates": 0,
-          "derrotas": 0,
-          "gm": 0,
-          "gs": 0,
-          "pontos": 0
-        },
-        {
           "posicao": 4,
-          "equipa": "A.F. De Viseu - Clube",
+          "equipa": "A.F. Viana Do Castelo - Clube",
           "jogos": 1,
           "vitorias": 0,
           "empates": 0,
           "derrotas": 1,
-          "gm": 1,
+          "gm": 0,
           "gs": 3,
           "pontos": 0
         }
