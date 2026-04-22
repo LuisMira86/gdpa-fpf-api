@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-21T07:58:10.019Z",
+  "fetchedAt": "2026-04-22T07:55:09.517Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -2084,24 +2084,24 @@
         },
         {
           "posicao": 5,
-          "equipa": "Ccr Infias",
-          "jogos": 23,
+          "equipa": "Sc Braga Sad",
+          "jogos": 22,
           "vitorias": 12,
-          "empates": 2,
-          "derrotas": 9,
-          "gm": 66,
-          "gs": 36,
-          "pontos": 38
+          "empates": 5,
+          "derrotas": 5,
+          "gm": 42,
+          "gs": 27,
+          "pontos": 41
         },
         {
           "posicao": 6,
-          "equipa": "Sc Braga Sad",
-          "jogos": 21,
-          "vitorias": 11,
-          "empates": 5,
-          "derrotas": 5,
-          "gm": 39,
-          "gs": 26,
+          "equipa": "Ccr Infias",
+          "jogos": 24,
+          "vitorias": 12,
+          "empates": 2,
+          "derrotas": 10,
+          "gm": 67,
+          "gs": 39,
           "pontos": 38
         },
         {
@@ -2902,13 +2902,13 @@
         {
           "posicao": 2,
           "equipa": "Brito Sc",
-          "jogos": 6,
-          "vitorias": 3,
+          "jogos": 7,
+          "vitorias": 4,
           "empates": 0,
           "derrotas": 3,
-          "gm": 12,
+          "gm": 15,
           "gs": 8,
-          "pontos": 9
+          "pontos": 12
         },
         {
           "posicao": 3,
@@ -2946,12 +2946,12 @@
         {
           "posicao": 6,
           "equipa": "C.R.P. Delães",
-          "jogos": 4,
+          "jogos": 5,
           "vitorias": 0,
           "empates": 0,
-          "derrotas": 4,
+          "derrotas": 5,
           "gm": 0,
-          "gs": 24,
+          "gs": 27,
           "pontos": 0
         }
       ]
