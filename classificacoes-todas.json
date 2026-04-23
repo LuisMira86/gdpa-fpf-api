@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-22T07:55:09.517Z",
+  "fetchedAt": "2026-04-23T08:01:37.950Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -419,6 +419,17 @@
         },
         {
           "posicao": 2,
+          "equipa": "Ad Águias Graça Fc",
+          "jogos": 22,
+          "vitorias": 12,
+          "empates": 6,
+          "derrotas": 4,
+          "gm": 42,
+          "gs": 24,
+          "pontos": 42
+        },
+        {
+          "posicao": 3,
           "equipa": "Sequeirense Fc",
           "jogos": 22,
           "vitorias": 10,
@@ -427,17 +438,6 @@
           "gm": 46,
           "gs": 23,
           "pontos": 40
-        },
-        {
-          "posicao": 3,
-          "equipa": "Ad Águias Graça Fc",
-          "jogos": 21,
-          "vitorias": 11,
-          "empates": 6,
-          "derrotas": 4,
-          "gm": 39,
-          "gs": 24,
-          "pontos": 39
         },
         {
           "posicao": 4,
@@ -486,12 +486,12 @@
         {
           "posicao": 8,
           "equipa": "Realense Fc",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 9,
           "empates": 7,
-          "derrotas": 5,
+          "derrotas": 6,
           "gm": 34,
-          "gs": 30,
+          "gs": 33,
           "pontos": 34
         },
         {
@@ -2052,12 +2052,12 @@
         {
           "posicao": 2,
           "equipa": "Os Sandinenses Gdrc",
-          "jogos": 22,
+          "jogos": 23,
           "vitorias": 17,
           "empates": 2,
-          "derrotas": 3,
+          "derrotas": 4,
           "gm": 45,
-          "gs": 19,
+          "gs": 21,
           "pontos": 53
         },
         {
@@ -2074,13 +2074,13 @@
         {
           "posicao": 4,
           "equipa": "Fc Marinhas",
-          "jogos": 22,
-          "vitorias": 14,
+          "jogos": 23,
+          "vitorias": 15,
           "empates": 3,
           "derrotas": 5,
-          "gm": 54,
+          "gm": 56,
           "gs": 23,
-          "pontos": 45
+          "pontos": 48
         },
         {
           "posicao": 5,
