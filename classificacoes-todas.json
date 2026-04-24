@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-23T08:01:37.950Z",
+  "fetchedAt": "2026-04-24T08:11:46.823Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -1508,13 +1508,13 @@
         {
           "posicao": 9,
           "equipa": "A.F.C. Gondizalves",
-          "jogos": 22,
+          "jogos": 23,
           "vitorias": 10,
-          "empates": 1,
+          "empates": 2,
           "derrotas": 11,
-          "gm": 43,
-          "gs": 39,
-          "pontos": 31
+          "gm": 44,
+          "gs": 40,
+          "pontos": 32
         },
         {
           "posicao": 10,
@@ -1585,13 +1585,13 @@
         {
           "posicao": 16,
           "equipa": "Lomarense Gc",
-          "jogos": 21,
+          "jogos": 22,
           "vitorias": 4,
-          "empates": 0,
+          "empates": 1,
           "derrotas": 17,
-          "gm": 34,
-          "gs": 89,
-          "pontos": 12
+          "gm": 35,
+          "gs": 90,
+          "pontos": 13
         }
       ]
     },
