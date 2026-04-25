@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-24T08:11:46.823Z",
+  "fetchedAt": "2026-04-25T07:24:40.213Z",
   "associationId": 219,
   "seasonId": 105,
   "totalCompeticoes": 28,
@@ -102,6 +102,17 @@
         },
         {
           "posicao": 9,
+          "equipa": "Ad Oliveirense 1952",
+          "jogos": 30,
+          "vitorias": 12,
+          "empates": 7,
+          "derrotas": 11,
+          "gm": 56,
+          "gs": 42,
+          "pontos": 43
+        },
+        {
+          "posicao": 10,
           "equipa": "Cd Ponte",
           "jogos": 29,
           "vitorias": 12,
@@ -112,7 +123,7 @@
           "pontos": 43
         },
         {
-          "posicao": 10,
+          "posicao": 11,
           "equipa": "Berço Sdq",
           "jogos": 29,
           "vitorias": 12,
@@ -121,17 +132,6 @@
           "gm": 50,
           "gs": 37,
           "pontos": 42
-        },
-        {
-          "posicao": 11,
-          "equipa": "Ad Oliveirense 1952",
-          "jogos": 29,
-          "vitorias": 11,
-          "empates": 7,
-          "derrotas": 11,
-          "gm": 53,
-          "gs": 42,
-          "pontos": 40
         },
         {
           "posicao": 12,
@@ -158,12 +158,12 @@
         {
           "posicao": 14,
           "equipa": "Ad Esposende",
-          "jogos": 29,
+          "jogos": 30,
           "vitorias": 10,
           "empates": 8,
-          "derrotas": 11,
+          "derrotas": 12,
           "gm": 39,
-          "gs": 38,
+          "gs": 41,
           "pontos": 38
         },
         {
