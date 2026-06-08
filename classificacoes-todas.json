@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-06-07T09:01:33.846Z",
+  "fetchedAt": "2026-06-08T11:00:24.405Z",
   "associationId": 219,
   "seasonId": 105,
-  "totalCompeticoes": 32,
+  "totalCompeticoes": 30,
   "competicoes": [
     {
       "competitionId": 27985,
@@ -158,15 +158,6 @@
       "tabela": []
     },
     {
-      "competitionId": 29304,
-      "seasonId": 105,
-      "competicao": "TORNEIO DR. JAIME LIMA LEITE SUB-14",
-      "sourceUrl": "https://resultados.fpf.pt/Competition/Details?competitionId=29304&seasonId=105",
-      "clickedClassificacao": false,
-      "totalEquipas": 0,
-      "tabela": []
-    },
-    {
       "competitionId": 28993,
       "seasonId": 105,
       "competicao": "CAMPEONATO DISTRITAL DE INFANTIS FUTEBOL 7",
@@ -180,15 +171,6 @@
       "seasonId": 105,
       "competicao": "CAMPEONATO DISTRITAL DE INFANTIS FUTEBOL 9",
       "sourceUrl": "https://resultados.fpf.pt/Competition/Details?competitionId=28957&seasonId=105",
-      "clickedClassificacao": false,
-      "totalEquipas": 0,
-      "tabela": []
-    },
-    {
-      "competitionId": 29305,
-      "seasonId": 105,
-      "competicao": "TORNEIO DR. JAIME LIMA LEITE SUB-13",
-      "sourceUrl": "https://resultados.fpf.pt/Competition/Details?competitionId=29305&seasonId=105",
       "clickedClassificacao": false,
       "totalEquipas": 0,
       "tabela": []
